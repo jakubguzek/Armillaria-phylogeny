@@ -1,0 +1,15 @@
+880217553a5c81b251cd76394fc0bb2e  ./annotation_hashes.txt
+c00b78bdd755193ffc2e8eb317300dd0  ./GCA_030407055.1_Armmel1_assembly_report.txt
+27d14442b35fb62f88559b0e57a774e4  ./GCA_030407055.1_Armmel1_assembly_stats.txt
+1175614ba6d128d2e1fe3d887d3664ed  ./GCA_030407055.1_Armmel1_cds_from_genomic.fna.gz
+22e2cdf257e8d98ea2f7816a42933611  ./GCA_030407055.1_Armmel1_feature_count.txt.gz
+8d08672a0ee0e31603c9bc072cfed0df  ./GCA_030407055.1_Armmel1_feature_table.txt.gz
+3cd71ddb0c075ac2ee4fbf2150cde0fe  ./GCA_030407055.1_Armmel1_genomic.fna.gz
+6940fd8381ab01afa64b1ef669eca9cc  ./GCA_030407055.1_Armmel1_genomic.gbff.gz
+d511e984e3b8d6f1f953e259fe3c4d78  ./GCA_030407055.1_Armmel1_genomic.gff.gz
+375ea76775c20b25a27e42e25c01bcbc  ./GCA_030407055.1_Armmel1_genomic.gtf.gz
+f6ad2139152c4c5141aca4ee3316a0a7  ./GCA_030407055.1_Armmel1_protein.faa.gz
+d1340f76734abf0d77a0475ece0a18cb  ./GCA_030407055.1_Armmel1_protein.gpff.gz
+6c803f8938a5e792259bc3a1ff3cac85  ./GCA_030407055.1_Armmel1_rna_from_genomic.fna.gz
+4be54a243162ad1e76517a38f1ad46c3  ./GCA_030407055.1_Armmel1_translated_cds.faa.gz
+e30f56f3821377f18ad70a1964386a7d  ./GCA_030407055.1_Armmel1_wgsmaster.gbff.gz

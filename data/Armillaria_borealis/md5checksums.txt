@@ -1,0 +1,15 @@
+728b887a37b9d62923a66992216ed8cf  ./annotation_hashes.txt
+ccfc1adb6e5a36ad71c5abdf50901e49  ./GCA_030435635.1_Armbor1_assembly_report.txt
+51651fe0b15f1000cb9abacee58cb4a0  ./GCA_030435635.1_Armbor1_assembly_stats.txt
+871c19f576894a480ea50b91c5a74db7  ./GCA_030435635.1_Armbor1_cds_from_genomic.fna.gz
+4eec81b3c8c6128a683fe88a3b230cbb  ./GCA_030435635.1_Armbor1_feature_count.txt.gz
+1330d64d1b30da6f37b99cec4a45bb56  ./GCA_030435635.1_Armbor1_feature_table.txt.gz
+c7caf0d3f94eb48454b7435e1cab9ce7  ./GCA_030435635.1_Armbor1_genomic.fna.gz
+0dd0b84ed6bbe85aa4b5f7e5a10757f8  ./GCA_030435635.1_Armbor1_genomic.gbff.gz
+39b1afe260a4f559109669fff319dfd0  ./GCA_030435635.1_Armbor1_genomic.gff.gz
+931514a68d533715e317493887826100  ./GCA_030435635.1_Armbor1_genomic.gtf.gz
+a06788953518a98291c0eb2c5414d83f  ./GCA_030435635.1_Armbor1_protein.faa.gz
+12ba3c4f140db8d2ede2420f39609e25  ./GCA_030435635.1_Armbor1_protein.gpff.gz
+de9f144fa8463369ec66b3ac92002ec3  ./GCA_030435635.1_Armbor1_rna_from_genomic.fna.gz
+33c3138bd579dda7d0eeaff50a90bedc  ./GCA_030435635.1_Armbor1_translated_cds.faa.gz
+00d1b25a7896c9447a94a7ebab39291e  ./GCA_030435635.1_Armbor1_wgsmaster.gbff.gz

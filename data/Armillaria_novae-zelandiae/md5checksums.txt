@@ -1,0 +1,15 @@
+e6920642a15b0f3eaf281a7f4ac2664f  ./annotation_hashes.txt
+3ec230e6bffb51173d9c0dddba9249a1  ./GCA_030435655.1_Armnov1_assembly_report.txt
+4822a36b38f8d6e1324a23e61dfa23a3  ./GCA_030435655.1_Armnov1_assembly_stats.txt
+0a5a40fbb389e5b3213a642ea7ada5b2  ./GCA_030435655.1_Armnov1_cds_from_genomic.fna.gz
+fa6fb4405aaa37c32bcb1bfe41db3569  ./GCA_030435655.1_Armnov1_feature_count.txt.gz
+0c4c980e761b8fdc77421b573bb3d11d  ./GCA_030435655.1_Armnov1_feature_table.txt.gz
+b5a9a9fabdd4ddb88fa075acef7f0774  ./GCA_030435655.1_Armnov1_genomic.fna.gz
+2d55ca332b573b086a7de4cb8adb224c  ./GCA_030435655.1_Armnov1_genomic.gbff.gz
+bb24496cfd4d65638a6b9bc01549d210  ./GCA_030435655.1_Armnov1_genomic.gff.gz
+1acc1e42d1f275404700637d8038a520  ./GCA_030435655.1_Armnov1_genomic.gtf.gz
+900402224563847be69147adc91f758d  ./GCA_030435655.1_Armnov1_protein.faa.gz
+0dbb71038b87e6d565d0c52c050357ab  ./GCA_030435655.1_Armnov1_protein.gpff.gz
+1b9c2d973af369765bd45c4de82636fa  ./GCA_030435655.1_Armnov1_rna_from_genomic.fna.gz
+0636708e5f03c210b24acfa220059fcc  ./GCA_030435655.1_Armnov1_translated_cds.faa.gz
+ca754431417ad5c13da78d1349662a7c  ./GCA_030435655.1_Armnov1_wgsmaster.gbff.gz

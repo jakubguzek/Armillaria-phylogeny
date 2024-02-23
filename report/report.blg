@@ -1,0 +1,32 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '/home/jakub/Documents/studia/Rok 2/genomika_porÃ³wnawcza/phylogenetic_pipeline/report/report.blg'
+[55] biber:340> INFO - === pią lut 23, 2024, 07:00:28
+[149] Biber.pm:419> INFO - Reading '/home/jakub/Documents/studia/Rok 2/genomika_porównawcza/phylogenetic_pipeline/report/report.bcf'
+[197] Biber.pm:979> INFO - Found 51 citekeys in bib section 0
+[205] Biber.pm:4419> INFO - Processing section 0
+[212] Biber.pm:4610> INFO - Looking for bibtex file '$BIB' for section 0
+[311] bibtex.pm:1713> INFO - LaTeX decoding ...
+[617] bibtex.pm:1519> INFO - Found BibTeX data source '/home/jakub/Documents/latex/bib.bib'
+[902] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[902] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[903] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[903] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[922] bbl.pm:660> INFO - Writing '/home/jakub/Documents/studia/Rok 2/genomika_porÃ³wnawcza/phylogenetic_pipeline/report/report.bbl' with encoding 'UTF-8'
+[943] bbl.pm:763> INFO - Output to /home/jakub/Documents/studia/Rok 2/genomika_porÃ³wnawcza/phylogenetic_pipeline/report/report.bbl
+[943] Biber.pm:131> WARN - Duplicate entry key: 'Labrou2014' in file '/home/jakub/Documents/latex/bib.bib', skipping ...
+[943] Biber.pm:131> WARN - Duplicate entry key: 'Murray2011' in file '/home/jakub/Documents/latex/bib.bib', skipping ...
+[943] Biber.pm:131> WARN - Duplicate entry key: 'Leoutsakou2006' in file '/home/jakub/Documents/latex/bib.bib', skipping ...
+[943] Biber.pm:131> WARN - Duplicate entry key: 'Kodama1990' in file '/home/jakub/Documents/latex/bib.bib', skipping ...
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_borealis' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_fumosa' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_gallica' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_luteobubalina' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_mellea' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_nabsnona' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_ostoyae' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_novae_zelandiae' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - online entry 'gbif_Armillaria_solidipes' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring
+[943] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_240p/283e1cb250985c2debc501124f55eeff_175131.utf8, line 590, warning: 380 characters of junk seen at toplevel
+[943] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_240p/283e1cb250985c2debc501124f55eeff_175131.utf8, line 785, warning: 32 characters of junk seen at toplevel
+[944] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_240p/283e1cb250985c2debc501124f55eeff_175131.utf8, line 976, warning: 47 characters of junk seen at toplevel
+[944] Biber.pm:133> INFO - WARNINGS: 16

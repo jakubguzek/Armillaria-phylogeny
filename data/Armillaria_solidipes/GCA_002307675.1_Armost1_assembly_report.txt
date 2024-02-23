@@ -1,0 +1,257 @@
+# Assembly name:  Armost1
+# Organism name:  Armillaria solidipes (basidiomycete fungi)
+# Infraspecific name:  strain=28-4
+# Taxid:          1076256
+# BioSample:      SAMN05446393
+# BioProject:     PRJNA334329
+# Submitter:      DOE Joint Genome Institute
+# Date:           2017-09-18
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    NKHM01
+# Assembly method: AllPathsLG v. R49403
+# Genome coverage: 67.6x
+# Sequencing technology: Illumina
+# GenBank assembly accession: GCA_002307675.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002307685.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+ARMSOscaffold_1	unplaced-scaffold	na	na	KZ293415.1	<>	na	Primary Assembly	3399694	na
+ARMSOscaffold_2	unplaced-scaffold	na	na	KZ293416.1	<>	na	Primary Assembly	3375826	na
+ARMSOscaffold_3	unplaced-scaffold	na	na	KZ293417.1	<>	na	Primary Assembly	2250350	na
+ARMSOscaffold_4	unplaced-scaffold	na	na	KZ293418.1	<>	na	Primary Assembly	1788850	na
+ARMSOscaffold_5	unplaced-scaffold	na	na	KZ293419.1	<>	na	Primary Assembly	1648145	na
+ARMSOscaffold_6	unplaced-scaffold	na	na	KZ293420.1	<>	na	Primary Assembly	1637074	na
+ARMSOscaffold_7	unplaced-scaffold	na	na	KZ293421.1	<>	na	Primary Assembly	1497939	na
+ARMSOscaffold_8	unplaced-scaffold	na	na	KZ293422.1	<>	na	Primary Assembly	1479673	na
+ARMSOscaffold_9	unplaced-scaffold	na	na	KZ293423.1	<>	na	Primary Assembly	1373770	na
+ARMSOscaffold_10	unplaced-scaffold	na	na	KZ293424.1	<>	na	Primary Assembly	1265512	na
+ARMSOscaffold_11	unplaced-scaffold	na	na	KZ293425.1	<>	na	Primary Assembly	1241413	na
+ARMSOscaffold_12	unplaced-scaffold	na	na	KZ293426.1	<>	na	Primary Assembly	917377	na
+ARMSOscaffold_13	unplaced-scaffold	na	na	KZ293427.1	<>	na	Primary Assembly	909541	na
+ARMSOscaffold_14	unplaced-scaffold	na	na	KZ293428.1	<>	na	Primary Assembly	907058	na
+ARMSOscaffold_15	unplaced-scaffold	na	na	KZ293429.1	<>	na	Primary Assembly	859978	na
+ARMSOscaffold_16	unplaced-scaffold	na	na	KZ293430.1	<>	na	Primary Assembly	859675	na
+ARMSOscaffold_17	unplaced-scaffold	na	na	KZ293431.1	<>	na	Primary Assembly	858288	na
+ARMSOscaffold_18	unplaced-scaffold	na	na	KZ293432.1	<>	na	Primary Assembly	854279	na
+ARMSOscaffold_19	unplaced-scaffold	na	na	KZ293433.1	<>	na	Primary Assembly	812717	na
+ARMSOscaffold_20	unplaced-scaffold	na	na	KZ293434.1	<>	na	Primary Assembly	736394	na
+ARMSOscaffold_21	unplaced-scaffold	na	na	KZ293435.1	<>	na	Primary Assembly	715667	na
+ARMSOscaffold_22	unplaced-scaffold	na	na	KZ293436.1	<>	na	Primary Assembly	695366	na
+ARMSOscaffold_23	unplaced-scaffold	na	na	KZ293437.1	<>	na	Primary Assembly	662257	na
+ARMSOscaffold_24	unplaced-scaffold	na	na	KZ293438.1	<>	na	Primary Assembly	639051	na
+ARMSOscaffold_25	unplaced-scaffold	na	na	KZ293439.1	<>	na	Primary Assembly	605421	na
+ARMSOscaffold_26	unplaced-scaffold	na	na	KZ293440.1	<>	na	Primary Assembly	594756	na
+ARMSOscaffold_27	unplaced-scaffold	na	na	KZ293441.1	<>	na	Primary Assembly	587160	na
+ARMSOscaffold_28	unplaced-scaffold	na	na	KZ293442.1	<>	na	Primary Assembly	585064	na
+ARMSOscaffold_29	unplaced-scaffold	na	na	KZ293443.1	<>	na	Primary Assembly	575869	na
+ARMSOscaffold_30	unplaced-scaffold	na	na	KZ293444.1	<>	na	Primary Assembly	563147	na
+ARMSOscaffold_31	unplaced-scaffold	na	na	KZ293445.1	<>	na	Primary Assembly	543169	na
+ARMSOscaffold_32	unplaced-scaffold	na	na	KZ293446.1	<>	na	Primary Assembly	535460	na
+ARMSOscaffold_33	unplaced-scaffold	na	na	KZ293447.1	<>	na	Primary Assembly	517754	na
+ARMSOscaffold_34	unplaced-scaffold	na	na	KZ293448.1	<>	na	Primary Assembly	497632	na
+ARMSOscaffold_35	unplaced-scaffold	na	na	KZ293449.1	<>	na	Primary Assembly	476779	na
+ARMSOscaffold_36	unplaced-scaffold	na	na	KZ293450.1	<>	na	Primary Assembly	464558	na
+ARMSOscaffold_37	unplaced-scaffold	na	na	KZ293451.1	<>	na	Primary Assembly	460876	na
+ARMSOscaffold_38	unplaced-scaffold	na	na	KZ293452.1	<>	na	Primary Assembly	449795	na
+ARMSOscaffold_39	unplaced-scaffold	na	na	KZ293453.1	<>	na	Primary Assembly	445793	na
+ARMSOscaffold_40	unplaced-scaffold	na	na	KZ293454.1	<>	na	Primary Assembly	428917	na
+ARMSOscaffold_41	unplaced-scaffold	na	na	KZ293455.1	<>	na	Primary Assembly	425265	na
+ARMSOscaffold_42	unplaced-scaffold	na	na	KZ293456.1	<>	na	Primary Assembly	411952	na
+ARMSOscaffold_43	unplaced-scaffold	na	na	KZ293457.1	<>	na	Primary Assembly	406298	na
+ARMSOscaffold_44	unplaced-scaffold	na	na	KZ293458.1	<>	na	Primary Assembly	396360	na
+ARMSOscaffold_45	unplaced-scaffold	na	na	KZ293459.1	<>	na	Primary Assembly	396252	na
+ARMSOscaffold_46	unplaced-scaffold	na	na	KZ293460.1	<>	na	Primary Assembly	395926	na
+ARMSOscaffold_47	unplaced-scaffold	na	na	KZ293461.1	<>	na	Primary Assembly	392198	na
+ARMSOscaffold_48	unplaced-scaffold	na	na	KZ293462.1	<>	na	Primary Assembly	364662	na
+ARMSOscaffold_49	unplaced-scaffold	na	na	KZ293463.1	<>	na	Primary Assembly	361006	na
+ARMSOscaffold_50	unplaced-scaffold	na	na	KZ293464.1	<>	na	Primary Assembly	359624	na
+ARMSOscaffold_51	unplaced-scaffold	na	na	KZ293465.1	<>	na	Primary Assembly	349996	na
+ARMSOscaffold_52	unplaced-scaffold	na	na	KZ293466.1	<>	na	Primary Assembly	341946	na
+ARMSOscaffold_53	unplaced-scaffold	na	na	KZ293467.1	<>	na	Primary Assembly	341677	na
+ARMSOscaffold_54	unplaced-scaffold	na	na	KZ293468.1	<>	na	Primary Assembly	332774	na
+ARMSOscaffold_55	unplaced-scaffold	na	na	KZ293469.1	<>	na	Primary Assembly	327597	na
+ARMSOscaffold_56	unplaced-scaffold	na	na	KZ293470.1	<>	na	Primary Assembly	323815	na
+ARMSOscaffold_57	unplaced-scaffold	na	na	KZ293471.1	<>	na	Primary Assembly	323625	na
+ARMSOscaffold_58	unplaced-scaffold	na	na	KZ293472.1	<>	na	Primary Assembly	316328	na
+ARMSOscaffold_59	unplaced-scaffold	na	na	KZ293473.1	<>	na	Primary Assembly	315386	na
+ARMSOscaffold_60	unplaced-scaffold	na	na	KZ293474.1	<>	na	Primary Assembly	313538	na
+ARMSOscaffold_61	unplaced-scaffold	na	na	KZ293475.1	<>	na	Primary Assembly	306576	na
+ARMSOscaffold_62	unplaced-scaffold	na	na	KZ293476.1	<>	na	Primary Assembly	306300	na
+ARMSOscaffold_63	unplaced-scaffold	na	na	KZ293477.1	<>	na	Primary Assembly	300170	na
+ARMSOscaffold_64	unplaced-scaffold	na	na	KZ293478.1	<>	na	Primary Assembly	299610	na
+ARMSOscaffold_65	unplaced-scaffold	na	na	KZ293479.1	<>	na	Primary Assembly	298724	na
+ARMSOscaffold_66	unplaced-scaffold	na	na	KZ293480.1	<>	na	Primary Assembly	274154	na
+ARMSOscaffold_67	unplaced-scaffold	na	na	KZ293481.1	<>	na	Primary Assembly	271530	na
+ARMSOscaffold_68	unplaced-scaffold	na	na	KZ293482.1	<>	na	Primary Assembly	271097	na
+ARMSOscaffold_69	unplaced-scaffold	na	na	KZ293483.1	<>	na	Primary Assembly	267897	na
+ARMSOscaffold_70	unplaced-scaffold	na	na	KZ293484.1	<>	na	Primary Assembly	258135	na
+ARMSOscaffold_71	unplaced-scaffold	na	na	KZ293485.1	<>	na	Primary Assembly	249909	na
+ARMSOscaffold_72	unplaced-scaffold	na	na	KZ293486.1	<>	na	Primary Assembly	249429	na
+ARMSOscaffold_73	unplaced-scaffold	na	na	KZ293487.1	<>	na	Primary Assembly	238130	na
+ARMSOscaffold_74	unplaced-scaffold	na	na	KZ293488.1	<>	na	Primary Assembly	235881	na
+ARMSOscaffold_75	unplaced-scaffold	na	na	KZ293489.1	<>	na	Primary Assembly	222258	na
+ARMSOscaffold_76	unplaced-scaffold	na	na	KZ293490.1	<>	na	Primary Assembly	217730	na
+ARMSOscaffold_77	unplaced-scaffold	na	na	KZ293491.1	<>	na	Primary Assembly	209339	na
+ARMSOscaffold_78	unplaced-scaffold	na	na	KZ293492.1	<>	na	Primary Assembly	197968	na
+ARMSOscaffold_79	unplaced-scaffold	na	na	KZ293493.1	<>	na	Primary Assembly	193733	na
+ARMSOscaffold_80	unplaced-scaffold	na	na	KZ293494.1	<>	na	Primary Assembly	192436	na
+ARMSOscaffold_81	unplaced-scaffold	na	na	KZ293495.1	<>	na	Primary Assembly	192192	na
+ARMSOscaffold_82	unplaced-scaffold	na	na	KZ293496.1	<>	na	Primary Assembly	189369	na
+ARMSOscaffold_83	unplaced-scaffold	na	na	KZ293497.1	<>	na	Primary Assembly	177763	na
+ARMSOscaffold_84	unplaced-scaffold	na	na	KZ293498.1	<>	na	Primary Assembly	174294	na
+ARMSOscaffold_85	unplaced-scaffold	na	na	KZ293499.1	<>	na	Primary Assembly	172453	na
+ARMSOscaffold_86	unplaced-scaffold	na	na	KZ293500.1	<>	na	Primary Assembly	169619	na
+ARMSOscaffold_87	unplaced-scaffold	na	na	KZ293501.1	<>	na	Primary Assembly	164416	na
+ARMSOscaffold_88	unplaced-scaffold	na	na	KZ293502.1	<>	na	Primary Assembly	154131	na
+ARMSOscaffold_89	unplaced-scaffold	na	na	KZ293503.1	<>	na	Primary Assembly	151798	na
+ARMSOscaffold_90	unplaced-scaffold	na	na	KZ293504.1	<>	na	Primary Assembly	146178	na
+ARMSOscaffold_91	unplaced-scaffold	na	na	KZ293505.1	<>	na	Primary Assembly	143258	na
+ARMSOscaffold_92	unplaced-scaffold	na	na	KZ293506.1	<>	na	Primary Assembly	135522	na
+ARMSOscaffold_93	unplaced-scaffold	na	na	KZ293507.1	<>	na	Primary Assembly	131982	na
+ARMSOscaffold_94	unplaced-scaffold	na	na	KZ293508.1	<>	na	Primary Assembly	129944	na
+ARMSOscaffold_95	unplaced-scaffold	na	na	KZ293509.1	<>	na	Primary Assembly	126083	na
+ARMSOscaffold_96	unplaced-scaffold	na	na	KZ293510.1	<>	na	Primary Assembly	124847	na
+ARMSOscaffold_97	unplaced-scaffold	na	na	KZ293511.1	<>	na	Primary Assembly	122193	na
+ARMSOscaffold_98	unplaced-scaffold	na	na	KZ293512.1	<>	na	Primary Assembly	117474	na
+ARMSOscaffold_99	unplaced-scaffold	na	na	KZ293513.1	<>	na	Primary Assembly	117291	na
+ARMSOscaffold_100	unplaced-scaffold	na	na	KZ293514.1	<>	na	Primary Assembly	111526	na
+ARMSOscaffold_101	unplaced-scaffold	na	na	KZ293515.1	<>	na	Primary Assembly	110411	na
+ARMSOscaffold_102	unplaced-scaffold	na	na	KZ293516.1	<>	na	Primary Assembly	109925	na
+ARMSOscaffold_103	unplaced-scaffold	na	na	KZ293517.1	<>	na	Primary Assembly	109482	na
+ARMSOscaffold_104	unplaced-scaffold	na	na	KZ293518.1	<>	na	Primary Assembly	107652	na
+ARMSOscaffold_105	unplaced-scaffold	na	na	KZ293519.1	<>	na	Primary Assembly	106130	na
+ARMSOscaffold_106	unplaced-scaffold	na	na	KZ293520.1	<>	na	Primary Assembly	96246	na
+ARMSOscaffold_107	unplaced-scaffold	na	na	KZ293521.1	<>	na	Primary Assembly	95042	na
+ARMSOscaffold_108	unplaced-scaffold	na	na	KZ293522.1	<>	na	Primary Assembly	93354	na
+ARMSOscaffold_109	unplaced-scaffold	na	na	KZ293523.1	<>	na	Primary Assembly	93155	na
+ARMSOscaffold_110	unplaced-scaffold	na	na	KZ293524.1	<>	na	Primary Assembly	89093	na
+ARMSOscaffold_111	unplaced-scaffold	na	na	KZ293525.1	<>	na	Primary Assembly	88110	na
+ARMSOscaffold_112	unplaced-scaffold	na	na	KZ293526.1	<>	na	Primary Assembly	84720	na
+ARMSOscaffold_113	unplaced-scaffold	na	na	KZ293527.1	<>	na	Primary Assembly	81567	na
+ARMSOscaffold_114	unplaced-scaffold	na	na	KZ293528.1	<>	na	Primary Assembly	81529	na
+ARMSOscaffold_115	unplaced-scaffold	na	na	KZ293529.1	<>	na	Primary Assembly	73140	na
+ARMSOscaffold_116	unplaced-scaffold	na	na	KZ293530.1	<>	na	Primary Assembly	72967	na
+ARMSOscaffold_117	unplaced-scaffold	na	na	KZ293531.1	<>	na	Primary Assembly	71051	na
+ARMSOscaffold_118	unplaced-scaffold	na	na	KZ293532.1	<>	na	Primary Assembly	69410	na
+ARMSOscaffold_119	unplaced-scaffold	na	na	KZ293533.1	<>	na	Primary Assembly	64239	na
+ARMSOscaffold_120	unplaced-scaffold	na	na	KZ293534.1	<>	na	Primary Assembly	64166	na
+ARMSOscaffold_121	unplaced-scaffold	na	na	KZ293535.1	<>	na	Primary Assembly	60619	na
+ARMSOscaffold_122	unplaced-scaffold	na	na	KZ293536.1	<>	na	Primary Assembly	59998	na
+ARMSOscaffold_123	unplaced-scaffold	na	na	KZ293537.1	<>	na	Primary Assembly	59844	na
+ARMSOscaffold_124	unplaced-scaffold	na	na	KZ293538.1	<>	na	Primary Assembly	58721	na
+ARMSOscaffold_125	unplaced-scaffold	na	na	KZ293539.1	<>	na	Primary Assembly	54846	na
+ARMSOscaffold_126	unplaced-scaffold	na	na	KZ293540.1	<>	na	Primary Assembly	53332	na
+ARMSOscaffold_127	unplaced-scaffold	na	na	KZ293541.1	<>	na	Primary Assembly	52861	na
+ARMSOscaffold_128	unplaced-scaffold	na	na	KZ293542.1	<>	na	Primary Assembly	52088	na
+ARMSOscaffold_129	unplaced-scaffold	na	na	KZ293543.1	<>	na	Primary Assembly	48731	na
+ARMSOscaffold_130	unplaced-scaffold	na	na	KZ293544.1	<>	na	Primary Assembly	41510	na
+ARMSOscaffold_131	unplaced-scaffold	na	na	KZ293545.1	<>	na	Primary Assembly	40616	na
+ARMSOscaffold_132	unplaced-scaffold	na	na	KZ293546.1	<>	na	Primary Assembly	34883	na
+ARMSOscaffold_133	unplaced-scaffold	na	na	KZ293547.1	<>	na	Primary Assembly	33611	na
+ARMSOscaffold_134	unplaced-scaffold	na	na	KZ293548.1	<>	na	Primary Assembly	31880	na
+ARMSOscaffold_135	unplaced-scaffold	na	na	KZ293549.1	<>	na	Primary Assembly	29950	na
+ARMSOscaffold_136	unplaced-scaffold	na	na	KZ293550.1	<>	na	Primary Assembly	29870	na
+ARMSOscaffold_137	unplaced-scaffold	na	na	KZ293551.1	<>	na	Primary Assembly	29816	na
+ARMSOscaffold_138	unplaced-scaffold	na	na	KZ293552.1	<>	na	Primary Assembly	28289	na
+ARMSOscaffold_139	unplaced-scaffold	na	na	KZ293553.1	<>	na	Primary Assembly	25827	na
+ARMSOscaffold_140	unplaced-scaffold	na	na	KZ293554.1	<>	na	Primary Assembly	24583	na
+ARMSOscaffold_141	unplaced-scaffold	na	na	KZ293555.1	<>	na	Primary Assembly	23705	na
+ARMSOscaffold_142	unplaced-scaffold	na	na	KZ293556.1	<>	na	Primary Assembly	22481	na
+ARMSOscaffold_143	unplaced-scaffold	na	na	KZ293557.1	<>	na	Primary Assembly	21064	na
+ARMSOscaffold_144	unplaced-scaffold	na	na	KZ293558.1	<>	na	Primary Assembly	19885	na
+ARMSOscaffold_145	unplaced-scaffold	na	na	KZ293559.1	<>	na	Primary Assembly	18835	na
+ARMSOscaffold_146	unplaced-scaffold	na	na	KZ293560.1	<>	na	Primary Assembly	17548	na
+ARMSOscaffold_147	unplaced-scaffold	na	na	KZ293561.1	<>	na	Primary Assembly	16589	na
+ARMSOscaffold_148	unplaced-scaffold	na	na	KZ293562.1	<>	na	Primary Assembly	15115	na
+ARMSOscaffold_149	unplaced-scaffold	na	na	KZ293563.1	<>	na	Primary Assembly	15010	na
+ARMSOscaffold_150	unplaced-scaffold	na	na	KZ293564.1	<>	na	Primary Assembly	14571	na
+ARMSOscaffold_151	unplaced-scaffold	na	na	KZ293565.1	<>	na	Primary Assembly	14437	na
+ARMSOscaffold_152	unplaced-scaffold	na	na	KZ293566.1	<>	na	Primary Assembly	12841	na
+ARMSOscaffold_153	unplaced-scaffold	na	na	KZ293567.1	<>	na	Primary Assembly	11615	na
+ARMSOscaffold_154	unplaced-scaffold	na	na	KZ293568.1	<>	na	Primary Assembly	10803	na
+ARMSOscaffold_155	unplaced-scaffold	na	na	KZ293569.1	<>	na	Primary Assembly	10761	na
+ARMSOscaffold_156	unplaced-scaffold	na	na	KZ293570.1	<>	na	Primary Assembly	9098	na
+ARMSOscaffold_157	unplaced-scaffold	na	na	KZ293571.1	<>	na	Primary Assembly	8416	na
+ARMSOscaffold_158	unplaced-scaffold	na	na	KZ293572.1	<>	na	Primary Assembly	6349	na
+ARMSOscaffold_159	unplaced-scaffold	na	na	KZ293573.1	<>	na	Primary Assembly	6244	na
+ARMSOscaffold_160	unplaced-scaffold	na	na	KZ293574.1	<>	na	Primary Assembly	5638	na
+ARMSOscaffold_161	unplaced-scaffold	na	na	KZ293575.1	<>	na	Primary Assembly	5533	na
+ARMSOscaffold_162	unplaced-scaffold	na	na	KZ293576.1	<>	na	Primary Assembly	5513	na
+ARMSOscaffold_163	unplaced-scaffold	na	na	KZ293577.1	<>	na	Primary Assembly	5506	na
+ARMSOscaffold_164	unplaced-scaffold	na	na	KZ293578.1	<>	na	Primary Assembly	5496	na
+ARMSOscaffold_165	unplaced-scaffold	na	na	KZ293579.1	<>	na	Primary Assembly	5369	na
+ARMSOscaffold_166	unplaced-scaffold	na	na	KZ293580.1	<>	na	Primary Assembly	4992	na
+ARMSOscaffold_167	unplaced-scaffold	na	na	KZ293581.1	<>	na	Primary Assembly	4968	na
+ARMSOscaffold_168	unplaced-scaffold	na	na	KZ293582.1	<>	na	Primary Assembly	4863	na
+ARMSOscaffold_169	unplaced-scaffold	na	na	KZ293583.1	<>	na	Primary Assembly	4834	na
+ARMSOscaffold_170	unplaced-scaffold	na	na	KZ293584.1	<>	na	Primary Assembly	4816	na
+ARMSOscaffold_171	unplaced-scaffold	na	na	KZ293585.1	<>	na	Primary Assembly	4815	na
+ARMSOscaffold_172	unplaced-scaffold	na	na	KZ293586.1	<>	na	Primary Assembly	4730	na
+ARMSOscaffold_173	unplaced-scaffold	na	na	KZ293587.1	<>	na	Primary Assembly	4527	na
+ARMSOscaffold_174	unplaced-scaffold	na	na	KZ293588.1	<>	na	Primary Assembly	4382	na
+ARMSOscaffold_175	unplaced-scaffold	na	na	KZ293589.1	<>	na	Primary Assembly	4189	na
+ARMSOscaffold_176	unplaced-scaffold	na	na	KZ293590.1	<>	na	Primary Assembly	4131	na
+ARMSOscaffold_177	unplaced-scaffold	na	na	KZ293591.1	<>	na	Primary Assembly	4077	na
+ARMSOscaffold_178	unplaced-scaffold	na	na	KZ293592.1	<>	na	Primary Assembly	4019	na
+ARMSOscaffold_179	unplaced-scaffold	na	na	KZ293593.1	<>	na	Primary Assembly	4011	na
+ARMSOscaffold_180	unplaced-scaffold	na	na	KZ293594.1	<>	na	Primary Assembly	3844	na
+ARMSOscaffold_181	unplaced-scaffold	na	na	KZ293595.1	<>	na	Primary Assembly	3679	na
+ARMSOscaffold_182	unplaced-scaffold	na	na	KZ293596.1	<>	na	Primary Assembly	3625	na
+ARMSOscaffold_183	unplaced-scaffold	na	na	KZ293597.1	<>	na	Primary Assembly	3473	na
+ARMSOscaffold_184	unplaced-scaffold	na	na	KZ293598.1	<>	na	Primary Assembly	3339	na
+ARMSOscaffold_185	unplaced-scaffold	na	na	KZ293599.1	<>	na	Primary Assembly	3123	na
+ARMSOscaffold_186	unplaced-scaffold	na	na	KZ293600.1	<>	na	Primary Assembly	3021	na
+ARMSOscaffold_187	unplaced-scaffold	na	na	KZ293601.1	<>	na	Primary Assembly	2996	na
+ARMSOscaffold_188	unplaced-scaffold	na	na	KZ293602.1	<>	na	Primary Assembly	2649	na
+ARMSOscaffold_189	unplaced-scaffold	na	na	KZ293603.1	<>	na	Primary Assembly	2564	na
+ARMSOscaffold_190	unplaced-scaffold	na	na	KZ293604.1	<>	na	Primary Assembly	2413	na
+ARMSOscaffold_191	unplaced-scaffold	na	na	KZ293605.1	<>	na	Primary Assembly	2412	na
+ARMSOscaffold_192	unplaced-scaffold	na	na	KZ293606.1	<>	na	Primary Assembly	2370	na
+ARMSOscaffold_193	unplaced-scaffold	na	na	KZ293607.1	<>	na	Primary Assembly	2361	na
+ARMSOscaffold_194	unplaced-scaffold	na	na	KZ293608.1	<>	na	Primary Assembly	2328	na
+ARMSOscaffold_195	unplaced-scaffold	na	na	KZ293609.1	<>	na	Primary Assembly	2312	na
+ARMSOscaffold_196	unplaced-scaffold	na	na	KZ293610.1	<>	na	Primary Assembly	2298	na
+ARMSOscaffold_197	unplaced-scaffold	na	na	KZ293611.1	<>	na	Primary Assembly	2241	na
+ARMSOscaffold_198	unplaced-scaffold	na	na	KZ293612.1	<>	na	Primary Assembly	2147	na
+ARMSOscaffold_199	unplaced-scaffold	na	na	KZ293613.1	<>	na	Primary Assembly	1863	na
+ARMSOscaffold_200	unplaced-scaffold	na	na	KZ293614.1	<>	na	Primary Assembly	1851	na
+ARMSOscaffold_201	unplaced-scaffold	na	na	KZ293615.1	<>	na	Primary Assembly	1754	na
+ARMSOscaffold_202	unplaced-scaffold	na	na	KZ293616.1	<>	na	Primary Assembly	1742	na
+ARMSOscaffold_203	unplaced-scaffold	na	na	KZ293617.1	<>	na	Primary Assembly	1732	na
+ARMSOscaffold_204	unplaced-scaffold	na	na	KZ293618.1	<>	na	Primary Assembly	1669	na
+ARMSOscaffold_205	unplaced-scaffold	na	na	KZ293619.1	<>	na	Primary Assembly	1617	na
+ARMSOscaffold_206	unplaced-scaffold	na	na	KZ293620.1	<>	na	Primary Assembly	1587	na
+ARMSOscaffold_207	unplaced-scaffold	na	na	KZ293621.1	<>	na	Primary Assembly	1562	na
+ARMSOscaffold_208	unplaced-scaffold	na	na	KZ293622.1	<>	na	Primary Assembly	1518	na
+ARMSOscaffold_209	unplaced-scaffold	na	na	KZ293623.1	<>	na	Primary Assembly	1511	na
+ARMSOscaffold_210	unplaced-scaffold	na	na	KZ293624.1	<>	na	Primary Assembly	1423	na
+ARMSOscaffold_211	unplaced-scaffold	na	na	KZ293625.1	<>	na	Primary Assembly	1412	na
+ARMSOscaffold_212	unplaced-scaffold	na	na	KZ293626.1	<>	na	Primary Assembly	1407	na
+ARMSOscaffold_213	unplaced-scaffold	na	na	KZ293627.1	<>	na	Primary Assembly	1398	na
+ARMSOscaffold_214	unplaced-scaffold	na	na	KZ293628.1	<>	na	Primary Assembly	1393	na
+ARMSOscaffold_215	unplaced-scaffold	na	na	KZ293629.1	<>	na	Primary Assembly	1353	na
+ARMSOscaffold_216	unplaced-scaffold	na	na	KZ293630.1	<>	na	Primary Assembly	1313	na
+ARMSOscaffold_217	unplaced-scaffold	na	na	KZ293631.1	<>	na	Primary Assembly	1285	na
+ARMSOscaffold_218	unplaced-scaffold	na	na	KZ293632.1	<>	na	Primary Assembly	1268	na
+ARMSOscaffold_219	unplaced-scaffold	na	na	KZ293633.1	<>	na	Primary Assembly	1250	na
+ARMSOscaffold_220	unplaced-scaffold	na	na	KZ293634.1	<>	na	Primary Assembly	1242	na
+ARMSOscaffold_221	unplaced-scaffold	na	na	KZ293635.1	<>	na	Primary Assembly	1241	na
+ARMSOscaffold_222	unplaced-scaffold	na	na	KZ293636.1	<>	na	Primary Assembly	1238	na
+ARMSOscaffold_223	unplaced-scaffold	na	na	KZ293637.1	<>	na	Primary Assembly	1223	na
+ARMSOscaffold_224	unplaced-scaffold	na	na	KZ293638.1	<>	na	Primary Assembly	1184	na
+ARMSOscaffold_225	unplaced-scaffold	na	na	KZ293639.1	<>	na	Primary Assembly	1165	na
+ARMSOscaffold_226	unplaced-scaffold	na	na	KZ293640.1	<>	na	Primary Assembly	1154	na
+ARMSOscaffold_227	unplaced-scaffold	na	na	KZ293641.1	<>	na	Primary Assembly	1153	na
+ARMSOscaffold_228	unplaced-scaffold	na	na	KZ293642.1	<>	na	Primary Assembly	1074	na
+ARMSOscaffold_229	unplaced-scaffold	na	na	KZ293643.1	<>	na	Primary Assembly	1069	na

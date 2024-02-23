@@ -1,0 +1,9 @@
+Armillaria_borealis
+Armillaria_mellea
+Armillaria_fumosa
+Armillaria_nabsnona
+Armillaria_luteobubalina
+Armillaria_novae-zelandiae
+Armillaria_ostoyae
+Armillaria_gallica
+Armillaria_solidipes

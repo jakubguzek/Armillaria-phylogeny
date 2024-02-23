@@ -1,0 +1,1650 @@
+[Species tree 1]
+[Size: 17 nodes 9 leaves]
+[Gene duplications: 598]
+((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Gene trees]
+[Rooted gene tree 1]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),(Armillaria_mellea,(((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 2]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_solidipes),(((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_borealis));
+
+[Rooted gene tree 3]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,((Armillaria_borealis,((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona))),Armillaria_ostoyae));
+
+[Rooted gene tree 4]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 5]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 6]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)),((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae));
+
+[Rooted gene tree 7]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),(Armillaria_mellea,(((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 8]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),(((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea));
+
+[Rooted gene tree 9]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_nabsnona,(((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes))),Armillaria_gallica));
+
+[Rooted gene tree 10]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 11]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea));
+
+[Rooted gene tree 12]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 13]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_fumosa,(((Armillaria_mellea,((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_nabsnona,Armillaria_gallica))),Armillaria_novae_zelandiae),Armillaria_luteobubalina));
+
+[Rooted gene tree 14]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)));
+
+[Rooted gene tree 15]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 16]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_nabsnona,(Armillaria_gallica,(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis))));
+
+[Rooted gene tree 17]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(((((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_mellea),Armillaria_novae_zelandiae),Armillaria_luteobubalina));
+
+[Rooted gene tree 18]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 19]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 20]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),((Armillaria_mellea,((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)))),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 21]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 22]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae),(Armillaria_nabsnona,Armillaria_gallica)),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 23]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_borealis,Armillaria_ostoyae)),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 24]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))));
+
+[Rooted gene tree 25]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 26]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_fumosa,(Armillaria_luteobubalina,(((((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 27]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 28]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 29]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_borealis,(Armillaria_ostoyae,(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_solidipes)));
+
+[Rooted gene tree 30]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea)));
+
+[Rooted gene tree 31]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(Armillaria_gallica,((Armillaria_mellea,((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa)),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis))));
+
+[Rooted gene tree 32]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea));
+
+[Rooted gene tree 33]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa)),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 34]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 35]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,((Armillaria_novae_zelandiae,(Armillaria_mellea,(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)))),Armillaria_luteobubalina));
+
+[Rooted gene tree 36]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_borealis,((((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_solidipes),Armillaria_ostoyae));
+
+[Rooted gene tree 37]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 38]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_gallica,((((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 39]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 40]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 41]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 42]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_nabsnona,(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),Armillaria_gallica));
+
+[Rooted gene tree 43]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_mellea,((Armillaria_luteobubalina,(Armillaria_fumosa,Armillaria_novae_zelandiae)),((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis))));
+
+[Rooted gene tree 44]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 45]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes)),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 46]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_luteobubalina,Armillaria_fumosa));
+
+[Rooted gene tree 47]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes)),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 48]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_nabsnona,(((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_mellea))),Armillaria_gallica));
+
+[Rooted gene tree 49]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+((Armillaria_novae_zelandiae,((Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes)),(Armillaria_mellea,(Armillaria_gallica,Armillaria_nabsnona)))),(Armillaria_luteobubalina,Armillaria_fumosa));
+
+[Rooted gene tree 50]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_fumosa,(Armillaria_luteobubalina,Armillaria_novae_zelandiae)),Armillaria_mellea)),((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes));
+
+[Rooted gene tree 51]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 52]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 53]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,((Armillaria_novae_zelandiae,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea)),Armillaria_fumosa));
+
+[Rooted gene tree 54]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_mellea,((((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Rooted gene tree 55]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_solidipes,((Armillaria_borealis,Armillaria_ostoyae),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea))));
+
+[Rooted gene tree 56]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)));
+
+[Rooted gene tree 57]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 58]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))));
+
+[Rooted gene tree 59]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),(Armillaria_mellea,((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis))));
+
+[Rooted gene tree 60]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_mellea,(((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa),((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona))));
+
+[Rooted gene tree 61]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,((((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes)),Armillaria_gallica));
+
+[Rooted gene tree 62]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),Armillaria_nabsnona),Armillaria_gallica),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 63]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_borealis,(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),Armillaria_ostoyae)));
+
+[Rooted gene tree 64]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)));
+
+[Rooted gene tree 65]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_novae_zelandiae,(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_mellea),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 66]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 67]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 68]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),(((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes)),Armillaria_mellea));
+
+[Rooted gene tree 69]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_borealis,Armillaria_ostoyae),Armillaria_gallica),(Armillaria_solidipes,((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),Armillaria_nabsnona)));
+
+[Rooted gene tree 70]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea)));
+
+[Rooted gene tree 71]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(((Armillaria_solidipes,Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_ostoyae));
+
+[Rooted gene tree 72]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis));
+
+[Rooted gene tree 73]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))),(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 74]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_fumosa,(Armillaria_luteobubalina,Armillaria_novae_zelandiae)),(Armillaria_mellea,((Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 75]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((Armillaria_fumosa,Armillaria_luteobubalina),((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea)));
+
+[Rooted gene tree 76]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 77]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 78]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 79]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_novae_zelandiae,(Armillaria_mellea,((Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)))),(Armillaria_fumosa,Armillaria_luteobubalina));
+
+[Rooted gene tree 80]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea));
+
+[Rooted gene tree 81]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_borealis,(Armillaria_solidipes,(Armillaria_gallica,Armillaria_nabsnona))),Armillaria_ostoyae));
+
+[Rooted gene tree 82]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 83]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 84]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(((((((Armillaria_gallica,Armillaria_nabsnona),Armillaria_ostoyae),Armillaria_borealis),Armillaria_solidipes),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_luteobubalina,Armillaria_fumosa));
+
+[Rooted gene tree 85]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)));
+
+[Rooted gene tree 86]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 87]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_ostoyae,((((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)),Armillaria_borealis),Armillaria_solidipes));
+
+[Rooted gene tree 88]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(Armillaria_gallica,((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)))));
+
+[Rooted gene tree 89]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_gallica,(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes))),Armillaria_nabsnona));
+
+[Rooted gene tree 90]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))),Armillaria_borealis));
+
+[Rooted gene tree 91]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)));
+
+[Rooted gene tree 92]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_solidipes),(((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),Armillaria_borealis));
+
+[Rooted gene tree 93]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))));
+
+[Rooted gene tree 94]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 95]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Rooted gene tree 96]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_borealis,((((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_solidipes),Armillaria_ostoyae));
+
+[Rooted gene tree 97]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_borealis),(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_solidipes));
+
+[Rooted gene tree 98]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),(Armillaria_mellea,(((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae),(Armillaria_gallica,Armillaria_nabsnona))));
+
+[Rooted gene tree 99]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_gallica,(Armillaria_nabsnona,((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),Armillaria_mellea),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 100]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes)),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_luteobubalina,Armillaria_fumosa));
+
+[Rooted gene tree 101]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(((Armillaria_gallica,(Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes))),(Armillaria_luteobubalina,Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_mellea)));
+
+[Rooted gene tree 102]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_borealis,(Armillaria_ostoyae,((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))))));
+
+[Rooted gene tree 103]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 104]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 105]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_ostoyae,((((Armillaria_novae_zelandiae,Armillaria_mellea),(Armillaria_fumosa,Armillaria_luteobubalina)),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_borealis,Armillaria_solidipes)));
+
+[Rooted gene tree 106]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),(Armillaria_mellea,(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona))));
+
+[Rooted gene tree 107]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 108]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 109]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 110]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_novae_zelandiae),Armillaria_luteobubalina))));
+
+[Rooted gene tree 111]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_borealis,Armillaria_ostoyae),(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_solidipes));
+
+[Rooted gene tree 112]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)),((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae));
+
+[Rooted gene tree 113]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes)),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 114]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_borealis,((Armillaria_ostoyae,Armillaria_solidipes),(((Armillaria_fumosa,(Armillaria_novae_zelandiae,Armillaria_luteobubalina)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 115]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 116]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_borealis,(Armillaria_solidipes,(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_luteobubalina,(Armillaria_fumosa,Armillaria_novae_zelandiae)),Armillaria_mellea)),Armillaria_ostoyae)));
+
+[Rooted gene tree 117]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_borealis,((Armillaria_gallica,Armillaria_ostoyae),Armillaria_solidipes))));
+
+[Rooted gene tree 118]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)))));
+
+[Rooted gene tree 119]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 120]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_mellea,(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis))),((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 121]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Rooted gene tree 122]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_gallica,(((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),Armillaria_nabsnona)),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_novae_zelandiae),Armillaria_luteobubalina)));
+
+[Rooted gene tree 123]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_nabsnona,(Armillaria_gallica,((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)))));
+
+[Rooted gene tree 124]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_gallica,((((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae)),Armillaria_nabsnona));
+
+[Rooted gene tree 125]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),(Armillaria_novae_zelandiae,(Armillaria_mellea,((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))))));
+
+[Rooted gene tree 126]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),Armillaria_gallica));
+
+[Rooted gene tree 127]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_ostoyae,((((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),Armillaria_borealis),Armillaria_solidipes));
+
+[Rooted gene tree 128]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 129]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_fumosa,(Armillaria_luteobubalina,((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_novae_zelandiae,Armillaria_mellea))));
+
+[Rooted gene tree 130]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 131]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),(Armillaria_novae_zelandiae,(Armillaria_mellea,((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica)))));
+
+[Rooted gene tree 132]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))),Armillaria_mellea),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 133]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),(Armillaria_mellea,((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 134]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),((((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea));
+
+[Rooted gene tree 135]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_nabsnona),Armillaria_gallica),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),Armillaria_mellea));
+
+[Rooted gene tree 136]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),((Armillaria_mellea,(Armillaria_luteobubalina,(Armillaria_novae_zelandiae,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 137]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 138]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(((Armillaria_fumosa,(Armillaria_mellea,Armillaria_luteobubalina)),Armillaria_novae_zelandiae),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 139]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes));
+
+[Rooted gene tree 140]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 141]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 142]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,((Armillaria_solidipes,Armillaria_ostoyae),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 143]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(((Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)),Armillaria_gallica),((Armillaria_luteobubalina,(Armillaria_novae_zelandiae,Armillaria_fumosa)),Armillaria_mellea)));
+
+[Rooted gene tree 144]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 145]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))),(((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa),Armillaria_mellea));
+
+[Rooted gene tree 146]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,((((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 147]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 148]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),Armillaria_nabsnona)));
+
+[Rooted gene tree 149]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 150]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 151]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_mellea));
+
+[Rooted gene tree 152]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)));
+
+[Rooted gene tree 153]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,((Armillaria_novae_zelandiae,(Armillaria_mellea,((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)))),Armillaria_fumosa));
+
+[Rooted gene tree 154]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 155]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae)));
+
+[Rooted gene tree 156]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),(Armillaria_nabsnona,Armillaria_gallica)),((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae));
+
+[Rooted gene tree 157]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_gallica,((Armillaria_ostoyae,(((Armillaria_luteobubalina,Armillaria_fumosa),(Armillaria_mellea,Armillaria_novae_zelandiae)),(Armillaria_solidipes,Armillaria_borealis))),Armillaria_nabsnona));
+
+[Rooted gene tree 158]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_mellea),(Armillaria_luteobubalina,Armillaria_fumosa)));
+
+[Rooted gene tree 159]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)));
+
+[Rooted gene tree 160]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_nabsnona),(Armillaria_ostoyae,(Armillaria_borealis,((Armillaria_mellea,Armillaria_gallica),Armillaria_solidipes))));
+
+[Rooted gene tree 161]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))),(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 162]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),((Armillaria_novae_zelandiae,Armillaria_fumosa),Armillaria_luteobubalina));
+
+[Rooted gene tree 163]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_novae_zelandiae,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea)),(Armillaria_fumosa,Armillaria_luteobubalina));
+
+[Rooted gene tree 164]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)));
+
+[Rooted gene tree 165]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,((Armillaria_solidipes,Armillaria_ostoyae),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))))));
+
+[Rooted gene tree 166]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),(((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea)));
+
+[Rooted gene tree 167]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),(((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 168]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)));
+
+[Rooted gene tree 169]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_ostoyae,((((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_borealis),Armillaria_solidipes));
+
+[Rooted gene tree 170]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_ostoyae,(Armillaria_borealis,((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)))))));
+
+[Rooted gene tree 171]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_mellea,((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 172]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),Armillaria_nabsnona),Armillaria_gallica)));
+
+[Rooted gene tree 173]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona));
+
+[Rooted gene tree 174]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 175]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 176]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 177]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa))));
+
+[Rooted gene tree 178]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_borealis),(Armillaria_ostoyae,((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 179]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 180]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 181]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae),Armillaria_gallica),Armillaria_nabsnona),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))));
+
+[Rooted gene tree 182]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_solidipes,((Armillaria_borealis,Armillaria_ostoyae),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 183]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(Armillaria_luteobubalina,(Armillaria_novae_zelandiae,(Armillaria_mellea,((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona))))));
+
+[Rooted gene tree 184]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),(Armillaria_borealis,(Armillaria_nabsnona,Armillaria_gallica))),(Armillaria_mellea,(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 185]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)))),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 186]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 187]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa),(Armillaria_mellea,(((Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)),Armillaria_nabsnona),Armillaria_gallica)));
+
+[Rooted gene tree 188]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_borealis,(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)))),Armillaria_ostoyae)));
+
+[Rooted gene tree 189]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa),Armillaria_mellea)),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 190]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,(Armillaria_fumosa,(Armillaria_novae_zelandiae,(Armillaria_mellea,(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica))))));
+
+[Rooted gene tree 191]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(Armillaria_luteobubalina,(Armillaria_novae_zelandiae,(Armillaria_mellea,(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica))))));
+
+[Rooted gene tree 192]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(Armillaria_gallica,((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes))));
+
+[Rooted gene tree 193]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis))),Armillaria_mellea),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)));
+
+[Rooted gene tree 194]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona))));
+
+[Rooted gene tree 195]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,((Armillaria_novae_zelandiae,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea)),Armillaria_fumosa));
+
+[Rooted gene tree 196]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),(((Armillaria_fumosa,(Armillaria_luteobubalina,Armillaria_novae_zelandiae)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 197]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),((((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 198]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea)));
+
+[Rooted gene tree 199]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))));
+
+[Rooted gene tree 200]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))));
+
+[Rooted gene tree 201]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 202]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)),Armillaria_borealis));
+
+[Rooted gene tree 203]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 204]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))),(Armillaria_mellea,((Armillaria_novae_zelandiae,Armillaria_luteobubalina),Armillaria_fumosa)));
+
+[Rooted gene tree 205]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 206]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(Armillaria_luteobubalina,(Armillaria_novae_zelandiae,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea))));
+
+[Rooted gene tree 207]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(Armillaria_luteobubalina,((Armillaria_mellea,((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica))),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 208]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 209]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_solidipes),(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_borealis));
+
+[Rooted gene tree 210]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 211]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 212]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_ostoyae,(Armillaria_solidipes,Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)));
+
+[Rooted gene tree 213]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa),Armillaria_mellea),(((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 214]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),(Armillaria_mellea,((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 215]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,(Armillaria_fumosa,(((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 216]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 217]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 218]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_novae_zelandiae,Armillaria_fumosa),(Armillaria_luteobubalina,Armillaria_mellea)),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 219]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)));
+
+[Rooted gene tree 220]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),(((Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea));
+
+[Rooted gene tree 221]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 222]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,((((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))),Armillaria_gallica));
+
+[Rooted gene tree 223]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_solidipes,((Armillaria_borealis,(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea)),Armillaria_ostoyae));
+
+[Rooted gene tree 224]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_luteobubalina,(Armillaria_fumosa,Armillaria_novae_zelandiae)),(Armillaria_mellea,(Armillaria_borealis,((Armillaria_ostoyae,Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica)))));
+
+[Rooted gene tree 225]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_ostoyae,(((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_borealis,(Armillaria_gallica,Armillaria_nabsnona))),Armillaria_solidipes));
+
+[Rooted gene tree 226]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),(Armillaria_mellea,((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,(Armillaria_nabsnona,Armillaria_gallica)))));
+
+[Rooted gene tree 227]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_solidipes,Armillaria_borealis),(((Armillaria_mellea,(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),Armillaria_ostoyae));
+
+[Rooted gene tree 228]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_nabsnona,((((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_gallica));
+
+[Rooted gene tree 229]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa)),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_borealis,Armillaria_ostoyae)));
+
+[Rooted gene tree 230]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 231]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 232]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),(Armillaria_gallica,Armillaria_nabsnona));
+
+[Rooted gene tree 233]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_ostoyae,Armillaria_solidipes),(Armillaria_borealis,(Armillaria_nabsnona,Armillaria_gallica))),((Armillaria_fumosa,(Armillaria_novae_zelandiae,Armillaria_luteobubalina)),Armillaria_mellea));
+
+[Rooted gene tree 234]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),Armillaria_borealis));
+
+[Rooted gene tree 235]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 236]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_novae_zelandiae),Armillaria_luteobubalina)));
+
+[Rooted gene tree 237]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 238]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_solidipes),(Armillaria_borealis,((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea))));
+
+[Rooted gene tree 239]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_fumosa,(Armillaria_luteobubalina,Armillaria_novae_zelandiae)),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 240]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 241]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),((Armillaria_fumosa,(Armillaria_novae_zelandiae,Armillaria_luteobubalina)),Armillaria_mellea)),Armillaria_gallica));
+
+[Rooted gene tree 242]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_solidipes,(Armillaria_borealis,(Armillaria_ostoyae,((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa))))));
+
+[Rooted gene tree 243]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_nabsnona,(Armillaria_gallica,(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea))));
+
+[Rooted gene tree 244]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 245]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),(Armillaria_mellea,Armillaria_novae_zelandiae)),((Armillaria_ostoyae,Armillaria_borealis),Armillaria_solidipes)));
+
+[Rooted gene tree 246]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 247]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Rooted gene tree 248]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_ostoyae,(((Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_borealis)));
+
+[Rooted gene tree 249]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_gallica,Armillaria_nabsnona)),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 250]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona)),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 251]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica)),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea));
+
+[Rooted gene tree 252]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 253]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)))));
+
+[Rooted gene tree 254]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_fumosa,(Armillaria_luteobubalina,((((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis))),Armillaria_mellea),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 255]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,(Armillaria_fumosa,((((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))),Armillaria_mellea),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 256]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_ostoyae,(Armillaria_solidipes,(Armillaria_borealis,((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)))));
+
+[Rooted gene tree 257]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 258]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),Armillaria_novae_zelandiae),(Armillaria_luteobubalina,Armillaria_fumosa));
+
+[Rooted gene tree 259]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),(Armillaria_novae_zelandiae,(((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea)));
+
+[Rooted gene tree 260]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),(((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea));
+
+[Rooted gene tree 261]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),((Armillaria_solidipes,(Armillaria_ostoyae,Armillaria_borealis)),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 262]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((((((Armillaria_nabsnona,Armillaria_gallica),Armillaria_solidipes),Armillaria_borealis),Armillaria_fumosa),Armillaria_ostoyae),(Armillaria_mellea,(Armillaria_novae_zelandiae,Armillaria_luteobubalina)));
+
+[Rooted gene tree 263]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 264]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,((Armillaria_ostoyae,Armillaria_solidipes),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 265]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),((Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 266]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)));
+
+[Rooted gene tree 267]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)))));
+
+[Rooted gene tree 268]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_nabsnona,(Armillaria_gallica,((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae))));
+
+[Rooted gene tree 269]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae)));
+
+[Rooted gene tree 270]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 271]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_gallica,(Armillaria_nabsnona,((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))));
+
+[Rooted gene tree 272]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 273]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_fumosa,Armillaria_luteobubalina),((((Armillaria_ostoyae,(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_borealis,Armillaria_solidipes)),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 274]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica)),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 275]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))));
+
+[Rooted gene tree 276]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))),(Armillaria_borealis,Armillaria_ostoyae));
+
+[Rooted gene tree 277]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),(Armillaria_luteobubalina,Armillaria_fumosa)));
+
+[Rooted gene tree 278]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_borealis,Armillaria_ostoyae),(Armillaria_solidipes,((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 279]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae))));
+
+[Rooted gene tree 280]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_solidipes,(Armillaria_ostoyae,(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_borealis)));
+
+[Rooted gene tree 281]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),(Armillaria_mellea,((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_gallica,Armillaria_nabsnona)))));
+
+[Rooted gene tree 282]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)));
+
+[Rooted gene tree 283]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)));
+
+[Rooted gene tree 284]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),(Armillaria_mellea,(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)))));
+
+[Rooted gene tree 285]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 286]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((Armillaria_novae_zelandiae,Armillaria_fumosa),(Armillaria_luteobubalina,(((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_borealis,Armillaria_solidipes),Armillaria_ostoyae)),Armillaria_mellea)));
+
+[Rooted gene tree 287]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_mellea,(Armillaria_luteobubalina,(Armillaria_novae_zelandiae,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)));
+
+[Rooted gene tree 288]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(Armillaria_borealis,((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona))));
+
+[Rooted gene tree 289]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_luteobubalina,Armillaria_fumosa),((((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 290]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((((Armillaria_novae_zelandiae,Armillaria_fumosa),Armillaria_luteobubalina),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 291]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_mellea,((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes))),((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 292]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 293]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),(Armillaria_nabsnona,Armillaria_gallica));
+
+[Rooted gene tree 294]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_gallica,Armillaria_nabsnona),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 295]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 4]
+(Armillaria_nabsnona,(((((Armillaria_fumosa,Armillaria_novae_zelandiae),Armillaria_luteobubalina),Armillaria_mellea),((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes)),Armillaria_gallica));
+
+[Rooted gene tree 296]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),Armillaria_solidipes),(Armillaria_borealis,Armillaria_ostoyae));
+
+[Rooted gene tree 297]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_novae_zelandiae,(((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea)),(Armillaria_fumosa,Armillaria_luteobubalina));
+
+[Rooted gene tree 298]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea)));
+
+[Rooted gene tree 299]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_fumosa,(Armillaria_luteobubalina,((Armillaria_mellea,((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 300]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),(((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_mellea)));
+
+[Rooted gene tree 301]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_ostoyae,Armillaria_solidipes),(Armillaria_borealis,((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina))),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 302]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_luteobubalina,(Armillaria_fumosa,(((((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 303]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_solidipes,Armillaria_ostoyae),(((Armillaria_mellea,((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_borealis));
+
+[Rooted gene tree 304]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_fumosa,Armillaria_luteobubalina),((((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_gallica,Armillaria_nabsnona)),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 305]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))));
+
+[Rooted gene tree 306]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis),((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea)));
+
+[Rooted gene tree 307]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 308]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),Armillaria_mellea)));
+
+[Rooted gene tree 309]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea)),(Armillaria_solidipes,Armillaria_ostoyae)));
+
+[Rooted gene tree 310]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae))));
+
+[Rooted gene tree 311]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_luteobubalina,(Armillaria_fumosa,Armillaria_novae_zelandiae)),Armillaria_mellea),((Armillaria_nabsnona,Armillaria_gallica),(Armillaria_solidipes,(Armillaria_borealis,Armillaria_ostoyae))));
+
+[Rooted gene tree 312]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae)),(Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))));
+
+[Rooted gene tree 313]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),((Armillaria_mellea,(Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa))),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 314]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis)),(((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 315]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+((((Armillaria_nabsnona,Armillaria_gallica),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_mellea),Armillaria_novae_zelandiae)),Armillaria_borealis),(Armillaria_ostoyae,Armillaria_solidipes));
+
+[Rooted gene tree 316]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(((Armillaria_luteobubalina,(Armillaria_fumosa,Armillaria_novae_zelandiae)),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 317]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_ostoyae,((Armillaria_borealis,Armillaria_solidipes),((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 318]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(Armillaria_gallica,((((Armillaria_solidipes,Armillaria_borealis),Armillaria_ostoyae),((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea)),Armillaria_nabsnona));
+
+[Rooted gene tree 319]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)))));
+
+[Rooted gene tree 320]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+((((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),(Armillaria_nabsnona,Armillaria_gallica)),(Armillaria_mellea,((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae)));
+
+[Rooted gene tree 321]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_luteobubalina,Armillaria_fumosa),((((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis)),Armillaria_mellea),Armillaria_novae_zelandiae));
+
+[Rooted gene tree 322]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((Armillaria_borealis,Armillaria_ostoyae),Armillaria_solidipes),((((Armillaria_luteobubalina,Armillaria_novae_zelandiae),Armillaria_fumosa),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)));
+
+[Rooted gene tree 323]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_gallica,Armillaria_nabsnona),(Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes))),(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),Armillaria_mellea));
+
+[Rooted gene tree 324]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 3]
+(((Armillaria_solidipes,Armillaria_ostoyae),Armillaria_borealis),(((((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_mellea),Armillaria_novae_zelandiae),Armillaria_nabsnona),Armillaria_gallica));
+
+[Rooted gene tree 325]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_novae_zelandiae,((Armillaria_luteobubalina,Armillaria_fumosa),(((Armillaria_borealis,(Armillaria_solidipes,Armillaria_ostoyae)),(Armillaria_nabsnona,Armillaria_gallica)),Armillaria_mellea)));
+
+[Rooted gene tree 326]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+((Armillaria_novae_zelandiae,(Armillaria_fumosa,Armillaria_luteobubalina)),(Armillaria_mellea,((Armillaria_ostoyae,(Armillaria_borealis,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica))));
+
+[Rooted gene tree 327]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 1]
+(Armillaria_mellea,(((Armillaria_fumosa,Armillaria_luteobubalina),Armillaria_novae_zelandiae),((Armillaria_nabsnona,Armillaria_gallica),((Armillaria_ostoyae,Armillaria_solidipes),Armillaria_borealis))));
+
+[Rooted gene tree 328]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 0]
+(((Armillaria_novae_zelandiae,(Armillaria_luteobubalina,Armillaria_fumosa)),Armillaria_mellea),((Armillaria_borealis,(Armillaria_ostoyae,Armillaria_solidipes)),(Armillaria_nabsnona,Armillaria_gallica)));
+
+[Rooted gene tree 329]
+[Size: 17 nodes 9 leaves]
+[Gene duplications caused by this gene tree: 2]
+(Armillaria_borealis,(((((Armillaria_luteobubalina,Armillaria_fumosa),Armillaria_novae_zelandiae),Armillaria_mellea),(Armillaria_gallica,Armillaria_nabsnona)),(Armillaria_solidipes,Armillaria_ostoyae)));

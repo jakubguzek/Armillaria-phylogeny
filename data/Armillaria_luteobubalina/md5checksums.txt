@@ -1,0 +1,15 @@
+76c5731705292062491b4edad69f1035  ./annotation_hashes.txt
+825c73129a4d6772d5c18cc5ee0b30dd  ./GCA_030435615.1_Armlut1_assembly_report.txt
+fb21b9d02fae937935a67e3c2feed66a  ./GCA_030435615.1_Armlut1_assembly_stats.txt
+42eb29dc3884a9e2527915792f6245a2  ./GCA_030435615.1_Armlut1_cds_from_genomic.fna.gz
+024bf8d4a923c4e2bc2a333b2532803a  ./GCA_030435615.1_Armlut1_feature_count.txt.gz
+9dcb485851b1b9a064f80311f9a27a13  ./GCA_030435615.1_Armlut1_feature_table.txt.gz
+5a4aca9c45f8d4b961f26985cb5d9174  ./GCA_030435615.1_Armlut1_genomic.fna.gz
+a9efff742221fe68b411c914e3c78822  ./GCA_030435615.1_Armlut1_genomic.gbff.gz
+2f1e737d81a79b7f76f70a035be8a50b  ./GCA_030435615.1_Armlut1_genomic.gff.gz
+1ce1a97995191399c12b8db977be1f30  ./GCA_030435615.1_Armlut1_genomic.gtf.gz
+b5b8b075bdbb5a16784f2ed80fa47628  ./GCA_030435615.1_Armlut1_protein.faa.gz
+98494d413c8ed418e8534abd8bca925d  ./GCA_030435615.1_Armlut1_protein.gpff.gz
+1fdbf935e24b9f0bebc8f340522672ee  ./GCA_030435615.1_Armlut1_rna_from_genomic.fna.gz
+a0d9fed7b7e30d3bad2964477701a980  ./GCA_030435615.1_Armlut1_translated_cds.faa.gz
+a0bec1a448aa4381fa41d5aac5c33b6e  ./GCA_030435615.1_Armlut1_wgsmaster.gbff.gz

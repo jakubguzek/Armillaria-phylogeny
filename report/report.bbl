@@ -1,0 +1,2064 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Harley1971}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7f35d71e725472dd1ac7e9cc9a92d273}{%
+           family={Harley},
+           familyi={H\bibinitperiod},
+           given={JL},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \strng{fullhash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \strng{bibnamehash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \strng{authorbibnamehash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \strng{authornamehash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \strng{authorfullhash}{7f35d71e725472dd1ac7e9cc9a92d273}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ecology}
+      \field{number}{3}
+      \field{title}{Fungi in ecosystems}
+      \field{volume}{59}
+      \field{year}{1971}
+      \field{pages}{653\bibrangedash 668}
+      \range{pages}{16}
+    \endentry
+    \entry{Heimann2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=df58036b908fc3e8978c2c1baa2b0beb}{%
+           family={Heimann},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=899b62bc85b262ae71ad2ad7071a968d}{%
+           family={Reichstein},
+           familyi={R\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{6b0aea7f926425f3286b1a51673d790c}
+      \strng{fullhash}{6b0aea7f926425f3286b1a51673d790c}
+      \strng{bibnamehash}{6b0aea7f926425f3286b1a51673d790c}
+      \strng{authorbibnamehash}{6b0aea7f926425f3286b1a51673d790c}
+      \strng{authornamehash}{6b0aea7f926425f3286b1a51673d790c}
+      \strng{authorfullhash}{6b0aea7f926425f3286b1a51673d790c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7176}
+      \field{title}{Terrestrial ecosystem carbon dynamics and climate feedbacks}
+      \field{volume}{451}
+      \field{year}{2008}
+      \field{pages}{289\bibrangedash 292}
+      \range{pages}{4}
+    \endentry
+    \entry{Krah2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b426d2d557a14797eba8be0de14b6726}{%
+           family={Krah},
+           familyi={K\bibinitperiod},
+           given={Franz-Sebastian},
+           giveni={F\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=8257e5bf0d23af6d8fa1b3a5e3e09ba6}{%
+           family={Bässler},
+           familyi={B\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e78af2364a6fb5a4b55c0b0bf57b30e6}{%
+           family={Heibl},
+           familyi={H\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7c407fa5ec85bdc803a71a886f987944}{%
+           family={Soghigian},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8655537d4c37ca49418b81917d338d67}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Hanno},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0d814276ce2f19a8de882f9e7e46c30a}{%
+           family={Hibbett},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{2ce47eb9dc48cdf32f165794a46b624b}
+      \strng{fullhash}{91e01aab247973b6ccc2bf71279e18f4}
+      \strng{bibnamehash}{2ce47eb9dc48cdf32f165794a46b624b}
+      \strng{authorbibnamehash}{2ce47eb9dc48cdf32f165794a46b624b}
+      \strng{authornamehash}{2ce47eb9dc48cdf32f165794a46b624b}
+      \strng{authorfullhash}{91e01aab247973b6ccc2bf71279e18f4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC evolutionary biology}
+      \field{number}{1}
+      \field{title}{Evolutionary dynamics of host specialization in wood-decay fungi}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+    \endentry
+    \entry{Worrall1997}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c88c269a28d4265954bd5ded8d3297e9}{%
+           family={Worrall},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6338f79b1054222fe34c454f32299a2e}{%
+           family={Anagnost},
+           familyi={A\bibinitperiod},
+           given={Susan\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7050d47f6827d3444836e954dd2452dd}{%
+           family={Zabel},
+           familyi={Z\bibinitperiod},
+           given={Robert\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{9490b652f7fb4e84560dfa361a76c936}
+      \strng{fullhash}{8fa8ccc00c6f0d09727febb7f8f2c0ac}
+      \strng{bibnamehash}{8fa8ccc00c6f0d09727febb7f8f2c0ac}
+      \strng{authorbibnamehash}{8fa8ccc00c6f0d09727febb7f8f2c0ac}
+      \strng{authornamehash}{9490b652f7fb4e84560dfa361a76c936}
+      \strng{authorfullhash}{8fa8ccc00c6f0d09727febb7f8f2c0ac}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{2}
+      \field{title}{Comparison of wood decay among diverse lignicolous fungi}
+      \field{volume}{89}
+      \field{year}{1997}
+      \field{pages}{199\bibrangedash 219}
+      \range{pages}{21}
+    \endentry
+    \entry{Brundrett2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b4ca79e97c451eaa18fc039b397e2d5e}{%
+           family={Brundrett},
+           familyi={B\bibinitperiod},
+           given={Mark\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f3240e5d0fa40d41806b6fb47cb2ad7d}{%
+           family={Tedersoo},
+           familyi={T\bibinitperiod},
+           given={Leho},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{34b5836fd36b45a15572a603a244b33d}
+      \strng{fullhash}{34b5836fd36b45a15572a603a244b33d}
+      \strng{bibnamehash}{34b5836fd36b45a15572a603a244b33d}
+      \strng{authorbibnamehash}{34b5836fd36b45a15572a603a244b33d}
+      \strng{authornamehash}{34b5836fd36b45a15572a603a244b33d}
+      \strng{authorfullhash}{34b5836fd36b45a15572a603a244b33d}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Phytologist}
+      \field{number}{4}
+      \field{title}{Evolutionary history of mycorrhizal symbioses and global host plant diversity}
+      \field{volume}{220}
+      \field{year}{2018}
+      \field{pages}{1108\bibrangedash 1115}
+      \range{pages}{8}
+    \endentry
+    \entry{Leake1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d197232bcdf2baff2b988166ec151aa0}{%
+           family={Leake},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{d197232bcdf2baff2b988166ec151aa0}
+      \strng{fullhash}{d197232bcdf2baff2b988166ec151aa0}
+      \strng{bibnamehash}{d197232bcdf2baff2b988166ec151aa0}
+      \strng{authorbibnamehash}{d197232bcdf2baff2b988166ec151aa0}
+      \strng{authornamehash}{d197232bcdf2baff2b988166ec151aa0}
+      \strng{authorfullhash}{d197232bcdf2baff2b988166ec151aa0}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Phytologist}
+      \field{number}{2}
+      \field{title}{The biology of myco-heterotrophic (‘saprophytic’) plants}
+      \field{volume}{127}
+      \field{year}{1994}
+      \field{pages}{171\bibrangedash 216}
+      \range{pages}{46}
+    \endentry
+    \entry{Bidartondo2002}{article}{}
+      \name{author}{9}{}{%
+        {{hash=3e469dd2e5005bf42fad54e11cd8fdb0}{%
+           family={Bidartondo},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima I},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=26dd09bc6908f27849302558825aa0f0}{%
+           family={Redecker},
+           familyi={R\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d4439288c0db32ded343d3c487ee818f}{%
+           family={Hijri},
+           familyi={H\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0dbf9854998666a24da1310dbc9c88b7}{%
+           family={Wiemken},
+           familyi={W\bibinitperiod},
+           given={Andres},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3e7fbce18dda6f7125f24d6611ae1837}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Thomas\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f8d60ad620f4d6ff0e76d64e327ea32d}{%
+           family={Domínguez},
+           familyi={D\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ba3c8ce1c86002907fc9e19214a1f98}{%
+           family={Sérsic},
+           familyi={S\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d197232bcdf2baff2b988166ec151aa0}{%
+           family={Leake},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1f6f1992a6a1096be14184311966889a}{%
+           family={Read},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{05db0881485d229993348c3f3042263e}
+      \strng{fullhash}{96fb2960f628b454fba0beffad60d8e0}
+      \strng{bibnamehash}{05db0881485d229993348c3f3042263e}
+      \strng{authorbibnamehash}{05db0881485d229993348c3f3042263e}
+      \strng{authornamehash}{05db0881485d229993348c3f3042263e}
+      \strng{authorfullhash}{96fb2960f628b454fba0beffad60d8e0}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6905}
+      \field{title}{Epiparasitic plants specialized on arbuscular mycorrhizal fungi}
+      \field{volume}{419}
+      \field{year}{2002}
+      \field{pages}{389\bibrangedash 392}
+      \range{pages}{4}
+    \endentry
+    \entry{Merckx2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cbcf2d12d86f70fb05a94bfe045e3716}{%
+           family={Merckx},
+           familyi={M\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3e469dd2e5005bf42fad54e11cd8fdb0}{%
+           family={Bidartondo},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima I},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=dd54d2171902bb646ce30c317a6f814c}{%
+           family={Hynson},
+           familyi={H\bibinitperiod},
+           given={Nicole\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4da126449f3fab384c24fde2cc82aa81}
+      \strng{fullhash}{158cf282ed5bcff792ef585b61c5ec9c}
+      \strng{bibnamehash}{158cf282ed5bcff792ef585b61c5ec9c}
+      \strng{authorbibnamehash}{158cf282ed5bcff792ef585b61c5ec9c}
+      \strng{authornamehash}{4da126449f3fab384c24fde2cc82aa81}
+      \strng{authorfullhash}{158cf282ed5bcff792ef585b61c5ec9c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Botany}
+      \field{number}{7}
+      \field{title}{Myco-heterotrophy: when fungi host plants}
+      \field{volume}{104}
+      \field{year}{2009}
+      \field{pages}{1255\bibrangedash 1261}
+      \range{pages}{7}
+    \endentry
+    \entry{Coetzee2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c22da4f1441690db0e4bfd901af97b06}{%
+           family={Coetzee},
+           familyi={C\bibinitperiod},
+           given={Martin\bibnamedelima PA},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=74d03017f0066ba7bf7962d6b8d32c68}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Brenda\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7becfdd9d7adbd7d27ecfce2eb5e0443}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{fullhash}{ffc4b32c525e04a3aa0fcc3e76e232a9}
+      \strng{bibnamehash}{ffc4b32c525e04a3aa0fcc3e76e232a9}
+      \strng{authorbibnamehash}{ffc4b32c525e04a3aa0fcc3e76e232a9}
+      \strng{authornamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authorfullhash}{ffc4b32c525e04a3aa0fcc3e76e232a9}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pathogens}
+      \field{number}{4}
+      \field{title}{Armillaria root-rot pathogens: species boundaries and global distribution}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{pages}{83}
+      \range{pages}{1}
+    \endentry
+    \entry{Gregory1985}{article}{}
+      \name{author}{1}{}{%
+        {{hash=967f2a2b418d9bfd9787a2f6aab46581}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={SC},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \strng{fullhash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \strng{bibnamehash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \strng{authorbibnamehash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \strng{authornamehash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \strng{authorfullhash}{967f2a2b418d9bfd9787a2f6aab46581}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plant pathology}
+      \field{number}{1}
+      \field{title}{The use of potato tubers in pathogenicity studies of Armillaria isolates}
+      \field{volume}{34}
+      \field{year}{1985}
+      \field{pages}{41\bibrangedash 48}
+      \range{pages}{8}
+    \endentry
+    \entry{Morrison2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0fdca26718d5e8464f60649c8d93d1ec}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={DJ},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \strng{fullhash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \strng{bibnamehash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \strng{authorbibnamehash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \strng{authornamehash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \strng{authorfullhash}{0fdca26718d5e8464f60649c8d93d1ec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forest Pathology}
+      \field{number}{1}
+      \field{title}{Rhizomorph growth habit, saprophytic ability and virulence of 15 Armillaria species}
+      \field{volume}{34}
+      \field{year}{2004}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
+    \endentry
+    \entry{Baumgartner2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=228488211708dfdb168afc9018d2fadb}{%
+           family={Baumgartner},
+           familyi={B\bibinitperiod},
+           given={Kendra},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c22da4f1441690db0e4bfd901af97b06}{%
+           family={Coetzee},
+           familyi={C\bibinitperiod},
+           given={Martin\bibnamedelima PA},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=7daf520c74a4dedb2ac70ee1c7d99633}{%
+           family={Hoffmeister},
+           familyi={H\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7265561a2cf1023965fb500c04792807}
+      \strng{fullhash}{4935e3a5274ea42089af4b6825603f6e}
+      \strng{bibnamehash}{4935e3a5274ea42089af4b6825603f6e}
+      \strng{authorbibnamehash}{4935e3a5274ea42089af4b6825603f6e}
+      \strng{authornamehash}{7265561a2cf1023965fb500c04792807}
+      \strng{authorfullhash}{4935e3a5274ea42089af4b6825603f6e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Plant Pathology}
+      \field{number}{6}
+      \field{title}{Secrets of the subterranean pathosystem of Armillaria}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{515\bibrangedash 534}
+      \range{pages}{20}
+    \endentry
+    \entry{Zhan2020}{article}{}
+      \name{author}{9}{}{%
+        {{hash=cabc0f425599290c1d0e3dcb4627a2c8}{%
+           family={Zhan},
+           familyi={Z\bibinitperiod},
+           given={Mengtao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8fe6c6ad7a3239f36f64ccfc9779fcaa}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Menghua},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8cbc2535117536553c60af9119c4d5e4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Weiguang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9cd238a9f3bcaa1fbda5125258cda368}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ganpeng},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ead3f49bba0a8f8820134e9cd074f491}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Xiaokai},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ac6b7bd7d78b024c1fa88b76fbe06556}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Guolei},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8997ffa5cb1bc48007ff7a442de34ca2}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Haiying},
+           giveni={H\bibinitperiod}}}%
+        {{hash=72c2843690accda93b9f4337d5dae76a}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9659427e812d745507b4d4445e348276}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Lishuxin},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{163e225bf7e261e02218b9d89c50a1d9}
+      \strng{fullhash}{27ec149a5a06d7779c1542347fb7ffaf}
+      \strng{bibnamehash}{163e225bf7e261e02218b9d89c50a1d9}
+      \strng{authorbibnamehash}{163e225bf7e261e02218b9d89c50a1d9}
+      \strng{authornamehash}{163e225bf7e261e02218b9d89c50a1d9}
+      \strng{authorfullhash}{27ec149a5a06d7779c1542347fb7ffaf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Microbiology}
+      \field{title}{Draft genomic sequence of Armillaria gallica 012m: insights into its symbiotic relationship with Gastrodia elata}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{pages}{1539\bibrangedash 1552}
+      \range{pages}{14}
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{8}{}{%
+        {{hash=00ddaed0209e981dc1baf21a78883962}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jia-Jia},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=e4739f97fae0dfd7db2eb82d52cd9463}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiao-Qi},
+           giveni={X\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=d272ad42c269e3505a1b27f58afcc830}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zong-Yang},
+           giveni={Z\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=0d17cddf41dee08b159956fd81035c31}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Jia-Yun},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=5be3788fb9decf4b1f865d1b723c30d8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shi-Bo},
+           giveni={S\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=5ff4cbbfcda938d54d27752d092751be}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wen-Ping},
+           giveni={W\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=fd47b4e0373965db9ebb6ea40c57f082}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yi-Cen},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=355f0edeb7a7754b22349d518834de79}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Lian-Bing},
+           giveni={L\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{6087d961846aee317d0bce78b95b19a7}
+      \strng{fullhash}{1aefd990c9f690c991e62848a9cdc8af}
+      \strng{bibnamehash}{6087d961846aee317d0bce78b95b19a7}
+      \strng{authorbibnamehash}{6087d961846aee317d0bce78b95b19a7}
+      \strng{authornamehash}{6087d961846aee317d0bce78b95b19a7}
+      \strng{authorfullhash}{1aefd990c9f690c991e62848a9cdc8af}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Plant Science}
+      \field{title}{The role of symbiotic fungi in the life cycle of Gastrodia elata Blume (Orchidaceae): a comprehensive review}
+      \field{volume}{14}
+      \field{year}{2023}
+    \endentry
+    \entry{Shaw1991}{book}{}
+      \name{author}{2}{}{%
+        {{hash=381528bf31bfdc9ef4e45ed09524c093}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Charles\bibnamedelima Gardner},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f2b906f01c28e9318653818da19a3d0a}{%
+           family={Kile},
+           familyi={K\bibinitperiod},
+           given={Glen\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Forest Service, US Department of Agriculture}%
+      }
+      \strng{namehash}{ff49eab01acce8010b447b55e59e6096}
+      \strng{fullhash}{ff49eab01acce8010b447b55e59e6096}
+      \strng{bibnamehash}{ff49eab01acce8010b447b55e59e6096}
+      \strng{authorbibnamehash}{ff49eab01acce8010b447b55e59e6096}
+      \strng{authornamehash}{ff49eab01acce8010b447b55e59e6096}
+      \strng{authorfullhash}{ff49eab01acce8010b447b55e59e6096}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{691}
+      \field{title}{Armillaria root disease}
+      \field{year}{1991}
+    \endentry
+    \entry{Ke2020}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=792d0229ed0fdf9d0e8816a0366f2860}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Huei-Mien},
+           giveni={H\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=c4063074553dcabc8ad5e5b972377cbb}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hsin-Han},
+           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c26e39d759a2b4dbc2f2979413a4ffab}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chan-Yi\bibnamedelima Ivy},
+           giveni={C\bibinithyphendelim Y\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=c6bf5551952176d0bc4b8848b1adb2f4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yu-Ching},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=259178ba8180e83e46eeec9411547209}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Min\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5c7560e5ad436e1f7a4a5be5f994929c}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Jo-Wei\bibnamedelima Allison},
+           giveni={J\bibinithyphendelim W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fca47d02b641fb17a0ed0631a91b9dcf}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chiung-Chih},
+           giveni={C\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=2aac3411c6a9eeaabf735bface2c7832}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Pei-Hsuan},
+           giveni={P\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=25f6c977fd1f5425c269c4b0819f7d8c}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Meiyeh\bibnamedelima Jade},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fa1464b4993285c4ca672e2e00a4f982}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jeng-Yi},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{abf566f1718480a01d87f87930167e2f}
+      \strng{fullhash}{17d0437f742c1d9fb083291be2767834}
+      \strng{bibnamehash}{abf566f1718480a01d87f87930167e2f}
+      \strng{authorbibnamehash}{abf566f1718480a01d87f87930167e2f}
+      \strng{authornamehash}{abf566f1718480a01d87f87930167e2f}
+      \strng{authorfullhash}{17d0437f742c1d9fb083291be2767834}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{49}
+      \field{title}{Mycena genomes resolve the evolution of fungal bioluminescence}
+      \field{volume}{117}
+      \field{year}{2020}
+      \field{pages}{31267\bibrangedash 31277}
+      \range{pages}{11}
+    \endentry
+    \entry{Oliveira2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2b6b897af888c925c4faf4a68ea17ae3}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Anderson\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=975cade7bb8f739af047cc4ba5b8eded}{%
+           family={Stevani},
+           familyi={S\bibinitperiod},
+           given={Cassius\bibnamedelima V},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=4a6915b12ab76568b3e6a9a45dc3ac28}{%
+           family={Waldenmaier},
+           familyi={W\bibinitperiod},
+           given={Hans\bibnamedelima E},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=f0b418d89436a235cf74d2ccfc7c7b90}{%
+           family={Viviani},
+           familyi={V\bibinitperiod},
+           given={Vadim},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f6f4946ed4b3692ea39aebe0ca36064d}{%
+           family={Emerson},
+           familyi={E\bibinitperiod},
+           given={Jillian\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8e00cdf0b33f12c785ceaffe345de5eb}{%
+           family={Loros},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=69fd551fe4cbb886b5fc90d26d222357}{%
+           family={Dunlap},
+           familyi={D\bibinitperiod},
+           given={Jay\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{98342ca2eee755a792290ca5c34951fa}
+      \strng{fullhash}{b65a25765bca1b36feb6871a75f27fcc}
+      \strng{bibnamehash}{98342ca2eee755a792290ca5c34951fa}
+      \strng{authorbibnamehash}{98342ca2eee755a792290ca5c34951fa}
+      \strng{authornamehash}{98342ca2eee755a792290ca5c34951fa}
+      \strng{authorfullhash}{b65a25765bca1b36feb6871a75f27fcc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Biology}
+      \field{number}{7}
+      \field{title}{Circadian control sheds light on fungal bioluminescence}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{pages}{964\bibrangedash 968}
+      \range{pages}{5}
+    \endentry
+    \entry{Smith1992}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7799823ead1f4fb44e4e2a90d976a19b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Myron\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=19b3ab4e2aa486f58b897c2090f0c025}{%
+           family={Bruhn},
+           familyi={B\bibinitperiod},
+           given={Johann\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=2965ceb6eaa25434e16569c6a9ff809e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{b69547abe68adc6479033521f01f510e}
+      \strng{fullhash}{f694aa66e38fb31991926e11e9f5a115}
+      \strng{bibnamehash}{f694aa66e38fb31991926e11e9f5a115}
+      \strng{authorbibnamehash}{f694aa66e38fb31991926e11e9f5a115}
+      \strng{authornamehash}{b69547abe68adc6479033521f01f510e}
+      \strng{authorfullhash}{f694aa66e38fb31991926e11e9f5a115}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6368}
+      \field{title}{The fungus Armillaria bulbosa is among the largest and oldest living organisms}
+      \field{volume}{356}
+      \field{year}{1992}
+      \field{pages}{428\bibrangedash 431}
+      \range{pages}{4}
+    \endentry
+    \entry{Anderson2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2965ceb6eaa25434e16569c6a9ff809e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=19b3ab4e2aa486f58b897c2090f0c025}{%
+           family={Bruhn},
+           familyi={B\bibinitperiod},
+           given={Johann\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=691a7cfb787d1768ae9617152ac65de3}{%
+           family={Kasimer},
+           familyi={K\bibinitperiod},
+           given={Dahlia},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c8cf19241225247d6d07dbf8a516b8ed}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a24c441208955ce627c63de0e41ac423}{%
+           family={Rodrigue},
+           familyi={R\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7799823ead1f4fb44e4e2a90d976a19b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Myron\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{a91bcaab981c16e2d6da45539dc2d71d}
+      \strng{fullhash}{bb26d0d7f15fedc11cca295abc06bc28}
+      \strng{bibnamehash}{a91bcaab981c16e2d6da45539dc2d71d}
+      \strng{authorbibnamehash}{a91bcaab981c16e2d6da45539dc2d71d}
+      \strng{authornamehash}{a91bcaab981c16e2d6da45539dc2d71d}
+      \strng{authorfullhash}{bb26d0d7f15fedc11cca295abc06bc28}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B}
+      \field{number}{1893}
+      \field{title}{Clonal evolution and genome stability in a 2500-year-old fungal individual}
+      \field{volume}{285}
+      \field{year}{2018}
+      \field{pages}{20182233}
+      \range{pages}{1}
+    \endentry
+    \entry{Anderson2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2965ceb6eaa25434e16569c6a9ff809e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=0fc1d6b249c112d0f8b0d1d665425cf0}{%
+           family={Catona},
+           familyi={C\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \strng{fullhash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \strng{bibnamehash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \strng{authorbibnamehash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \strng{authornamehash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \strng{authorfullhash}{693cb7a2ec8ea5baf17d2b5cfd50651d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{4}
+      \field{title}{Genomewide mutation dynamic within a long-lived individual of Armillaria gallica}
+      \field{volume}{106}
+      \field{year}{2014}
+      \field{pages}{642\bibrangedash 648}
+      \range{pages}{7}
+    \endentry
+    \entry{Koch2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=51124718f2d43e4d67da4e3ce00f7ff0}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Rachel\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e497633bedd5712f4ebe3fa81b00d5f9}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b35ae396095c355eb337d79f912189b2}{%
+           family={Séné},
+           familyi={S\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d29d8076309fffded4e3dd90188979d7}{%
+           family={Henkel},
+           familyi={H\bibinitperiod},
+           given={Terry\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=cc2da27cc14b9b5d2ff02fb6439daa7f}{%
+           family={Aime},
+           familyi={A\bibinitperiod},
+           given={M\bibnamedelima Catherine},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{94b5313e41355e37ac5883989563a5a8}
+      \strng{fullhash}{da52144169e3386e83bb0a12104c2ac4}
+      \strng{bibnamehash}{94b5313e41355e37ac5883989563a5a8}
+      \strng{authorbibnamehash}{94b5313e41355e37ac5883989563a5a8}
+      \strng{authornamehash}{94b5313e41355e37ac5883989563a5a8}
+      \strng{authorfullhash}{da52144169e3386e83bb0a12104c2ac4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Evolutionary Biology}
+      \field{title}{Resolved phylogeny and biogeography of the root pathogen Armillaria and its gasteroid relative, Guyanagaster}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{Gregory1985b}{article}{}
+      \name{author}{2}{}{%
+        {{hash=967f2a2b418d9bfd9787a2f6aab46581}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={SC},
+           giveni={S\bibinitperiod}}}%
+        {{hash=974971331826219231fe9d4cfe1330a8}{%
+           family={Watling},
+           familyi={W\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{780416a590987b1f6f056b636b06fb8a}
+      \strng{fullhash}{780416a590987b1f6f056b636b06fb8a}
+      \strng{bibnamehash}{780416a590987b1f6f056b636b06fb8a}
+      \strng{authorbibnamehash}{780416a590987b1f6f056b636b06fb8a}
+      \strng{authornamehash}{780416a590987b1f6f056b636b06fb8a}
+      \strng{authorfullhash}{780416a590987b1f6f056b636b06fb8a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the British Mycological Society}
+      \field{number}{1}
+      \field{title}{Occurrence of Armillaria borealis in Britain}
+      \field{volume}{84}
+      \field{year}{1985}
+      \field{pages}{47\bibrangedash 55}
+      \range{pages}{9}
+    \endentry
+    \entry{Guillaumin1993}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7c63dd35270cb82c0b024a00f1ea8b15}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={J-J},
+           giveni={J\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=04408d832c1fd906dd576776aa8b7e2f}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0b3b30f5b8d1d91aa2dc27c028508510}{%
+           family={Anselmi},
+           familyi={A\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=df1eab9ede0057f2ec907350b0d2d95d}{%
+           family={Courtecuisse},
+           familyi={C\bibinitperiod},
+           given={Régis},
+           giveni={R\bibinitperiod}}}%
+        {{hash=967f2a2b418d9bfd9787a2f6aab46581}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={SC},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ebeff4d86d567b5718041eee1c03838c}{%
+           family={Holdenrieder},
+           familyi={H\bibinitperiod},
+           given={O},
+           giveni={O\bibinitperiod}}}%
+        {{hash=cb4c919026a9d65363ae5c53e0387cc3}{%
+           family={Intini},
+           familyi={I\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=313b5fea80ae54f4652544b833aa730f}{%
+           family={Lung},
+           familyi={L\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7a25d624582b4eaf1b3ecee27d1b2f05}{%
+           family={Marxmüller},
+           familyi={M\bibinitperiod},
+           given={Helga},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e39fbabdb49f86976bf045b3507e282a}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{fcaf2f883559d7a803b2d37184320da7}
+      \strng{fullhash}{9dbbfd22ae9c75b70acc3aaf9fed8930}
+      \strng{bibnamehash}{fcaf2f883559d7a803b2d37184320da7}
+      \strng{authorbibnamehash}{fcaf2f883559d7a803b2d37184320da7}
+      \strng{authornamehash}{fcaf2f883559d7a803b2d37184320da7}
+      \strng{authorfullhash}{9dbbfd22ae9c75b70acc3aaf9fed8930}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Forest Pathology}
+      \field{number}{6-7}
+      \field{title}{Geographical distribution and ecology of the Armillaria species in western Europe}
+      \field{volume}{23}
+      \field{year}{1993}
+      \field{pages}{321\bibrangedash 341}
+      \range{pages}{21}
+    \endentry
+    \entry{gbif_Armillaria_borealis}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.bdqyyv
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.bdqyyv
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_borealis' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Mihail2005}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7e16557de14b306435f54f9afb244637}{%
+           family={Mihail},
+           familyi={M\bibinitperiod},
+           given={Jeanne\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=19b3ab4e2aa486f58b897c2090f0c025}{%
+           family={Bruhn},
+           familyi={B\bibinitperiod},
+           given={Johann\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{27b11cd6aca962669107a829371c94ef}
+      \strng{fullhash}{27b11cd6aca962669107a829371c94ef}
+      \strng{bibnamehash}{27b11cd6aca962669107a829371c94ef}
+      \strng{authorbibnamehash}{27b11cd6aca962669107a829371c94ef}
+      \strng{authornamehash}{27b11cd6aca962669107a829371c94ef}
+      \strng{authorfullhash}{27b11cd6aca962669107a829371c94ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycological research}
+      \field{number}{11}
+      \field{title}{Foraging behaviour of Armillaria rhizomorph systems}
+      \field{volume}{109}
+      \field{year}{2005}
+      \field{pages}{1195\bibrangedash 1207}
+      \range{pages}{13}
+    \endentry
+    \entry{gbif_Armillaria_fumosa}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.6d7rce
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.6d7rce
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_fumosa' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{gbif_Armillaria_gallica}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.edbsbb
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.edbsbb
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_gallica' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Coetzee2003}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c22da4f1441690db0e4bfd901af97b06}{%
+           family={Coetzee},
+           familyi={C\bibinitperiod},
+           given={Martin\bibnamedelima PA},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=74d03017f0066ba7bf7962d6b8d32c68}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Brenda\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=128faa615da65791c11b0113a008b72f}{%
+           family={Bloomer},
+           familyi={B\bibinitperiod},
+           given={Paulette},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c3ffc108315d95b16e15d518b7331855}{%
+           family={Ridley},
+           familyi={R\bibinitperiod},
+           given={Geoff\bibnamedelima S},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7becfdd9d7adbd7d27ecfce2eb5e0443}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{fullhash}{df164d382c00afb72cdb7b035c8ea112}
+      \strng{bibnamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authorbibnamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authornamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authorfullhash}{df164d382c00afb72cdb7b035c8ea112}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{2}
+      \field{title}{Molecular identification and phylogeny of Armillaria isolates from South America and Indo-Malaysia}
+      \field{volume}{95}
+      \field{year}{2003}
+      \field{pages}{285\bibrangedash 293}
+      \range{pages}{9}
+    \endentry
+    \entry{Pareek2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=77fbbe29429fcf942a4eebdd0d22beb4}{%
+           family={Pareek},
+           familyi={P\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=737b00c87da7299a6a9151217b928f03}{%
+           family={Louise},
+           familyi={L\bibinitperiod},
+           given={COLE},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9e43a9ca602c3ed7dad28f2a645a062e}{%
+           family={Ashford},
+           familyi={A\bibinitperiod},
+           given={Anne\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d98f69b7ba97c16ad6f23432ff9383a5}
+      \strng{fullhash}{98aca8585164cd985050a18ea849f8a7}
+      \strng{bibnamehash}{98aca8585164cd985050a18ea849f8a7}
+      \strng{authorbibnamehash}{98aca8585164cd985050a18ea849f8a7}
+      \strng{authornamehash}{d98f69b7ba97c16ad6f23432ff9383a5}
+      \strng{authorfullhash}{98aca8585164cd985050a18ea849f8a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycological research}
+      \field{number}{11}
+      \field{title}{Variations in structure of aerial and submerged rhizomorphs of Armillaria luteobubalina indicate that they may be organs of absorption}
+      \field{volume}{105}
+      \field{year}{2001}
+      \field{pages}{1377\bibrangedash 1387}
+      \range{pages}{11}
+    \endentry
+    \entry{gbif_Armillaria_luteobubalina}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.wxcqsw
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.wxcqsw
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_luteobubalina' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{gbif_Armillaria_mellea}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.q2udke
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.q2udke
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_mellea' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Volk1996}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1f2c20e0f8d253a7d58f773694151d6d}{%
+           family={Volk},
+           familyi={V\bibinitperiod},
+           given={Thomas\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=77ae6ef6d858511b45e853585caa1b42}{%
+           family={Burdsall\bibnamedelima Jr},
+           familyi={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Harold\bibnamedelima H},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f7bcb05ed9149444a22e3484d18e3530}{%
+           family={Banik},
+           familyi={B\bibinitperiod},
+           given={Mark\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d879db98b47429369f5e98e8eaee41a9}
+      \strng{fullhash}{faba88aba4faf3d7e10771d676b4e15c}
+      \strng{bibnamehash}{faba88aba4faf3d7e10771d676b4e15c}
+      \strng{authorbibnamehash}{faba88aba4faf3d7e10771d676b4e15c}
+      \strng{authornamehash}{d879db98b47429369f5e98e8eaee41a9}
+      \strng{authorfullhash}{faba88aba4faf3d7e10771d676b4e15c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{3}
+      \field{title}{Armillaria nabsnona, a new species from western North America}
+      \field{volume}{88}
+      \field{year}{1996}
+      \field{pages}{484\bibrangedash 491}
+      \range{pages}{8}
+    \endentry
+    \entry{Baumgartner2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=228488211708dfdb168afc9018d2fadb}{%
+           family={Baumgartner},
+           familyi={B\bibinitperiod},
+           given={Kendra},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6845c57e6db4326def7815b13ff134b6}{%
+           family={Rizzo},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{741acb1cba31f4de5af9067f50f36a43}
+      \strng{fullhash}{741acb1cba31f4de5af9067f50f36a43}
+      \strng{bibnamehash}{741acb1cba31f4de5af9067f50f36a43}
+      \strng{authorbibnamehash}{741acb1cba31f4de5af9067f50f36a43}
+      \strng{authornamehash}{741acb1cba31f4de5af9067f50f36a43}
+      \strng{authorfullhash}{741acb1cba31f4de5af9067f50f36a43}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{5}
+      \field{title}{Distribution of Armillaria species in California}
+      \field{volume}{93}
+      \field{year}{2001}
+      \field{pages}{821\bibrangedash 830}
+      \range{pages}{10}
+    \endentry
+    \entry{gbif_Armillaria_nabsnona}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.hgxge9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.hgxge9
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_nabsnona' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Hasegawa2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d934aef2b226e0162b659cfb4d78101d}{%
+           family={Hasegawa},
+           familyi={H\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2ad9fb282d6fac0bf636ff9d174ec9ed}{%
+           family={Ota},
+           familyi={O\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8b702964e8a45d83e94b28d5d586603e}{%
+           family={Hattori},
+           familyi={H\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0651fc91bd980fe70b083a6894a32736}{%
+           family={Sahashi},
+           familyi={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=21fc0f3e7b5e30eff8e05ec27deac123}{%
+           family={Kikuchi},
+           familyi={K\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{92d7a56468305220c9a43e01f546e943}
+      \strng{fullhash}{f65f06f73454f0656457f1e89b66761f}
+      \strng{bibnamehash}{92d7a56468305220c9a43e01f546e943}
+      \strng{authorbibnamehash}{92d7a56468305220c9a43e01f546e943}
+      \strng{authornamehash}{92d7a56468305220c9a43e01f546e943}
+      \strng{authorfullhash}{f65f06f73454f0656457f1e89b66761f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forest Pathology}
+      \field{number}{6}
+      \field{title}{Ecology of Armillaria species on conifers in Japan}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{429\bibrangedash 437}
+      \range{pages}{9}
+    \endentry
+    \entry{Burdsall2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e89edeceaaeb7a55f571ebcf65f1cac3}{%
+           family={Burdsall},
+           familyi={B\bibinitperiod},
+           given={Hal},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1f2c20e0f8d253a7d58f773694151d6d}{%
+           family={Volk},
+           familyi={V\bibinitperiod},
+           given={Thomas\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c69509315e3a59536a4df6d1381f1a1}
+      \strng{fullhash}{1c69509315e3a59536a4df6d1381f1a1}
+      \strng{bibnamehash}{1c69509315e3a59536a4df6d1381f1a1}
+      \strng{authorbibnamehash}{1c69509315e3a59536a4df6d1381f1a1}
+      \strng{authornamehash}{1c69509315e3a59536a4df6d1381f1a1}
+      \strng{authorfullhash}{1c69509315e3a59536a4df6d1381f1a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{North American Fungi}
+      \field{number}{7}
+      \field{title}{Armillaria solidipes, an older name for the fungus called Armillaria ostoyae}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{261\bibrangedash 267}
+      \range{pages}{7}
+    \endentry
+    \entry{gbif_Armillaria_ostoyae}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.5t25gh
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.5t25gh
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_ostoyae' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Shaw1977}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{hash=564a6a1761fe916cdbef55c90b24e168}{%
+           family={Shaw\bibnamedelima III},
+           familyi={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={CG},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6f799897d462bc9f8a5e5c617011e3a5}{%
+           family={Calderon},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1780b1acbec029dba044c0b33f735f06}
+      \strng{fullhash}{1780b1acbec029dba044c0b33f735f06}
+      \strng{bibnamehash}{1780b1acbec029dba044c0b33f735f06}
+      \strng{authorbibnamehash}{1780b1acbec029dba044c0b33f735f06}
+      \strng{authornamehash}{1780b1acbec029dba044c0b33f735f06}
+      \strng{authorfullhash}{1780b1acbec029dba044c0b33f735f06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Zealand Journal of Forestry Science}
+      \field{number}{3}
+      \field{title}{Impact of Armillaria root rot in plantations of Pinus radiata established on sites converted from indigenous forest}
+      \field{volume}{7}
+      \field{year}{1977}
+      \field{pages}{359\bibrangedash 373}
+      \range{pages}{15}
+    \endentry
+    \entry{Shaw1981}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f0df59735db58d40acf2972028fbe1ee}{%
+           family={III},
+           familyi={I\bibinitperiod},
+           given={CG\bibnamedelima SHAW},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1801e81fea0633fff905c1f8fdb671a6}{%
+           family={MacKenzie},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f02835490e07399c77d3bce21b92e90}{%
+           family={Toes},
+           familyi={T\bibinitperiod},
+           given={EHA},
+           giveni={E\bibinitperiod}}}%
+        {{hash=aa096b394afbd95f3e9162fc81055d92}{%
+           family={Hood},
+           familyi={H\bibinitperiod},
+           given={IA},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{5cc53c87f20a124054507c6014ccf821}
+      \strng{fullhash}{59a4958391c230d70a11e17e61226b94}
+      \strng{bibnamehash}{5cc53c87f20a124054507c6014ccf821}
+      \strng{authorbibnamehash}{5cc53c87f20a124054507c6014ccf821}
+      \strng{authornamehash}{5cc53c87f20a124054507c6014ccf821}
+      \strng{authorfullhash}{59a4958391c230d70a11e17e61226b94}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Zealand journal of forestry science}
+      \field{number}{1}
+      \field{title}{Cultural characteristics and pathogenicity to Pinus radiata of Armillaria novae-zelandiae and A. limonea}
+      \field{volume}{11}
+      \field{year}{1981}
+      \field{pages}{65}
+      \range{pages}{1}
+    \endentry
+    \entry{Pildain2010}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6b3ec48be1b1e7161a863337bb2d71ba}{%
+           family={Pildain},
+           familyi={P\bibinitperiod},
+           given={María\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c22da4f1441690db0e4bfd901af97b06}{%
+           family={Coetzee},
+           familyi={C\bibinitperiod},
+           given={Martin\bibnamedelima PA},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=74d03017f0066ba7bf7962d6b8d32c68}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Brenda\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7becfdd9d7adbd7d27ecfce2eb5e0443}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b6fa3a9bae6fd2fa7ae8499867d53d70}{%
+           family={Rajchenberg},
+           familyi={R\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e6db7077c9f2848166bbbd44eba33ab7}
+      \strng{fullhash}{7adaaa0556ead22703b83fb65728a551}
+      \strng{bibnamehash}{e6db7077c9f2848166bbbd44eba33ab7}
+      \strng{authorbibnamehash}{e6db7077c9f2848166bbbd44eba33ab7}
+      \strng{authornamehash}{e6db7077c9f2848166bbbd44eba33ab7}
+      \strng{authorfullhash}{7adaaa0556ead22703b83fb65728a551}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mycologia}
+      \field{number}{2}
+      \field{title}{Taxonomy of Armillaria in the Patagonian forests of Argentina}
+      \field{volume}{102}
+      \field{year}{2010}
+      \field{pages}{392\bibrangedash 403}
+      \range{pages}{12}
+    \endentry
+    \entry{gbif_Armillaria_novae_zelandiae}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.y4ybbx
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.y4ybbx
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_novae_zelandiae' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{gbif_Armillaria_solidipes}{online}{}
+      \name{author}{1}{}{%
+        {{hash=de3acc3f18150696f67fc83fcc960b31}{%
+           family={GBIF.org},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{fullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{bibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorbibnamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authornamehash}{de3acc3f18150696f67fc83fcc960b31}
+      \strng{authorfullhash}{de3acc3f18150696f67fc83fcc960b31}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GBIF Occurrence Download}
+      \verb{urlraw}
+      \verb https://doi.org/10.15468/dl.yfn5rv
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.15468/dl.yfn5rv
+      \endverb
+      \warn{\item online entry 'gbif_Armillaria_solidipes' (/home/jakub/Documents/latex/bib.bib): Invalid format '21 February 2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Steinegger2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c06ac6a6fdcf2ee2092d61fc58c1f21b}{%
+           family={Steinegger},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e67661e270ffc979f77600b3904f2e9c}{%
+           family={Söding},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group US New York}%
+      }
+      \strng{namehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{fullhash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{bibnamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authorbibnamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authornamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authorfullhash}{bb6972e6904af4120c40cd3b1c032361}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature biotechnology}
+      \field{number}{11}
+      \field{title}{MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{1026\bibrangedash 1028}
+      \range{pages}{3}
+    \endentry
+    \entry{Steinegger2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c06ac6a6fdcf2ee2092d61fc58c1f21b}{%
+           family={Steinegger},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e67661e270ffc979f77600b3904f2e9c}{%
+           family={Söding},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{fullhash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{bibnamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authorbibnamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authornamehash}{bb6972e6904af4120c40cd3b1c032361}
+      \strng{authorfullhash}{bb6972e6904af4120c40cd3b1c032361}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature communications}
+      \field{number}{1}
+      \field{title}{Clustering huge protein sequence sets in linear time}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{2542}
+      \range{pages}{1}
+    \endentry
+    \entry{Mirdita2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2dac539cd49fcc48ee89ea09ce5e40c3}{%
+           family={Mirdita},
+           familyi={M\bibinitperiod},
+           given={Milot},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c06ac6a6fdcf2ee2092d61fc58c1f21b}{%
+           family={Steinegger},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e67661e270ffc979f77600b3904f2e9c}{%
+           family={Söding},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c21f53048cf1e62ecd79c0dc91b53eef}
+      \strng{fullhash}{3f5b5c108cbc3da95ddec28bbb4ba191}
+      \strng{bibnamehash}{3f5b5c108cbc3da95ddec28bbb4ba191}
+      \strng{authorbibnamehash}{3f5b5c108cbc3da95ddec28bbb4ba191}
+      \strng{authornamehash}{c21f53048cf1e62ecd79c0dc91b53eef}
+      \strng{authorfullhash}{3f5b5c108cbc3da95ddec28bbb4ba191}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{16}
+      \field{title}{MMseqs2 desktop and local web server app for fast, interactive sequence searches}
+      \field{volume}{35}
+      \field{year}{2019}
+      \field{pages}{2856\bibrangedash 2858}
+      \range{pages}{3}
+    \endentry
+    \entry{Katoh2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e15a71da898925c9e569917155439a71}{%
+           family={Katoh},
+           familyi={K\bibinitperiod},
+           given={Kazutaka},
+           giveni={K\bibinitperiod}}}%
+        {{hash=79d103fd7a5297794f43daa9d4e978b5}{%
+           family={Standley},
+           familyi={S\bibinitperiod},
+           given={Daron\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Society for Molecular Biology}%
+        {Evolution}%
+      }
+      \strng{namehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \strng{fullhash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \strng{bibnamehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \strng{authorbibnamehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \strng{authornamehash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \strng{authorfullhash}{e9d4aa85a2dfc2a1f68ee7bf8628a81d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular biology and evolution}
+      \field{number}{4}
+      \field{title}{MAFFT multiple sequence alignment software version 7: improvements in performance and usability}
+      \field{volume}{30}
+      \field{year}{2013}
+      \field{pages}{772\bibrangedash 780}
+      \range{pages}{9}
+    \endentry
+    \entry{Kozlov2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=eeb01cc12bbbefd324636a4b478897ac}{%
+           family={Kozlov},
+           familyi={K\bibinitperiod},
+           given={Alexey\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=428f64cdca94d928c0f27717f759cf02}{%
+           family={Darriba},
+           familyi={D\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4ab6294bdd4839ebb3302be012ea3aae}{%
+           family={Flouri},
+           familyi={F\bibinitperiod},
+           given={Tomáš},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bcbab8e21e8da42984463e0789ab9e3e}{%
+           family={Morel},
+           familyi={M\bibinitperiod},
+           given={Benoit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fa9cb11fc0196cb2a4dac60fa1bb9926}{%
+           family={Stamatakis},
+           familyi={S\bibinitperiod},
+           given={Alexandros},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{aaa49b2a19e9b30e4e15cf54d037bbd9}
+      \strng{fullhash}{462d01e856e7156c58998056e71faef1}
+      \strng{bibnamehash}{aaa49b2a19e9b30e4e15cf54d037bbd9}
+      \strng{authorbibnamehash}{aaa49b2a19e9b30e4e15cf54d037bbd9}
+      \strng{authornamehash}{aaa49b2a19e9b30e4e15cf54d037bbd9}
+      \strng{authorfullhash}{462d01e856e7156c58998056e71faef1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{21}
+      \field{title}{RAxML-NG: a fast, scalable and user-friendly tool for maximum likelihood phylogenetic inference}
+      \field{volume}{35}
+      \field{year}{2019}
+      \field{pages}{4453\bibrangedash 4455}
+      \range{pages}{3}
+    \endentry
+    \entry{Le2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f00364ec0a9b364b7f85f5212ab9c880}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Si\bibnamedelima Quang},
+           giveni={S\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+        {{hash=9ac0403b5ef77ed84fcc4065eb407340}{%
+           family={Gascuel},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \strng{fullhash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \strng{bibnamehash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \strng{authorbibnamehash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \strng{authornamehash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \strng{authorfullhash}{8fdfb7cabe09515895d6ebc462071cc0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular biology and evolution}
+      \field{number}{7}
+      \field{title}{An improved general amino acid replacement matrix}
+      \field{volume}{25}
+      \field{year}{2008}
+      \field{pages}{1307\bibrangedash 1320}
+      \range{pages}{14}
+    \endentry
+    \entry{Wehe2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=df89b20d9d8c9d47cf3d69d1bb21f8bb}{%
+           family={Wehe},
+           familyi={W\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3fca68b8a3e75ec75cf35527104440e7}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Mukul\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=aee4cde69dfe71a05916a056af5f8c90}{%
+           family={Burleigh},
+           familyi={B\bibinitperiod},
+           given={J\bibnamedelima Gordon},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=34b88a54a2f2f5ef1bdb33874087908f}{%
+           family={Eulenstein},
+           familyi={E\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{de46451af7b0ce55046de60f375f0870}
+      \strng{fullhash}{cc31ee2787bc3563aeaae28693f3838f}
+      \strng{bibnamehash}{de46451af7b0ce55046de60f375f0870}
+      \strng{authorbibnamehash}{de46451af7b0ce55046de60f375f0870}
+      \strng{authornamehash}{de46451af7b0ce55046de60f375f0870}
+      \strng{authorfullhash}{cc31ee2787bc3563aeaae28693f3838f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{13}
+      \field{title}{DupTree: a program for large-scale phylogenetic analyses using gene tree parsimony}
+      \field{volume}{24}
+      \field{year}{2008}
+      \field{pages}{1540\bibrangedash 1541}
+      \range{pages}{2}
+    \endentry
+    \entry{Coetzee2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c22da4f1441690db0e4bfd901af97b06}{%
+           family={Coetzee},
+           familyi={C\bibinitperiod},
+           given={Martin\bibnamedelima PA},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=128faa615da65791c11b0113a008b72f}{%
+           family={Bloomer},
+           familyi={B\bibinitperiod},
+           given={Paulette},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7becfdd9d7adbd7d27ecfce2eb5e0443}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=74d03017f0066ba7bf7962d6b8d32c68}{%
+           family={Wingfield},
+           familyi={W\bibinitperiod},
+           given={Brenda\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, USA}%
+      }
+      \strng{namehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{fullhash}{b42cf252595c8c0f0cdee276629ba8eb}
+      \strng{bibnamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authorbibnamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authornamehash}{995d05f85cf5094b8833e1895432a832}
+      \strng{authorfullhash}{b42cf252595c8c0f0cdee276629ba8eb}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{12}
+      \field{title}{Paleogene radiation of a plant pathogenic mushroom}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{pages}{e28545}
+      \range{pages}{-1}
+    \endentry
+    \entry{Kumar2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f5c6ef9d2cdee2e1c059473af1f0536d}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Sudhir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f88f04e32e46be3c229c5425876fea6b}{%
+           family={Stecher},
+           familyi={S\bibinitperiod},
+           given={Glen},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1cc9bfbabe3eda873ae4e379ffcccfc4}{%
+           family={Suleski},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3a4ab7b49fbd19ef9501bb143abcd256}{%
+           family={Hedges},
+           familyi={H\bibinitperiod},
+           given={S\bibnamedelima Blair},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8e7b1813db9247797807badbecbbca31}
+      \strng{fullhash}{4611ed17069ee6ed4fe83092f1c5b8d2}
+      \strng{bibnamehash}{8e7b1813db9247797807badbecbbca31}
+      \strng{authorbibnamehash}{8e7b1813db9247797807badbecbbca31}
+      \strng{authornamehash}{8e7b1813db9247797807badbecbbca31}
+      \strng{authorfullhash}{4611ed17069ee6ed4fe83092f1c5b8d2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular biology and evolution}
+      \field{number}{7}
+      \field{title}{TimeTree: a resource for timelines, timetrees, and divergence times}
+      \field{volume}{34}
+      \field{year}{2017}
+      \field{pages}{1812\bibrangedash 1819}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

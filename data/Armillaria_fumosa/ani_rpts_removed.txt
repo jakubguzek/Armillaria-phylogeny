@@ -1,0 +1,1 @@
+Fixed /am/ftp-genomes2/all/GCA/030/407/015/GCA_030407015.1_Armfum1/md5checksums.txt

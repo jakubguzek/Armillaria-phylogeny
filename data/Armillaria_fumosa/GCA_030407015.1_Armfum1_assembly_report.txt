@@ -1,0 +1,84 @@
+# Assembly name:  Armfum1
+# Organism name:  Armillaria fumosa (basidiomycete fungi)
+# Infraspecific name:  strain=CBS 122221
+# Taxid:          153910
+# BioSample:      SAMN16773873
+# BioProject:     PRJNA677794
+# Submitter:      DOE Joint Genome Institute
+# Date:           2023-07-05
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JAUDYM01
+# Assembly method: Falcon v. 1.2.3
+# Expected final version: no
+# Genome coverage: 273.72x
+# Sequencing technology: PacBio
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_030407015.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_030407045.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+IW262scaffold_1	unplaced-scaffold	na	na	JAUDYM010000001.1	<>	na	Primary Assembly	5345567	na
+IW262scaffold_10	unplaced-scaffold	na	na	JAUDYM010000010.1	<>	na	Primary Assembly	1939522	na
+IW262scaffold_11	unplaced-scaffold	na	na	JAUDYM010000011.1	<>	na	Primary Assembly	1866909	na
+IW262scaffold_12	unplaced-scaffold	na	na	JAUDYM010000012.1	<>	na	Primary Assembly	1726442	na
+IW262scaffold_13	unplaced-scaffold	na	na	JAUDYM010000013.1	<>	na	Primary Assembly	1471241	na
+IW262scaffold_14	unplaced-scaffold	na	na	JAUDYM010000014.1	<>	na	Primary Assembly	1318760	na
+IW262scaffold_15	unplaced-scaffold	na	na	JAUDYM010000015.1	<>	na	Primary Assembly	1272318	na
+IW262scaffold_16	unplaced-scaffold	na	na	JAUDYM010000016.1	<>	na	Primary Assembly	1245899	na
+IW262scaffold_17	unplaced-scaffold	na	na	JAUDYM010000017.1	<>	na	Primary Assembly	1054885	na
+IW262scaffold_18	unplaced-scaffold	na	na	JAUDYM010000018.1	<>	na	Primary Assembly	891829	na
+IW262scaffold_19	unplaced-scaffold	na	na	JAUDYM010000019.1	<>	na	Primary Assembly	807924	na
+IW262scaffold_2	unplaced-scaffold	na	na	JAUDYM010000002.1	<>	na	Primary Assembly	4786893	na
+IW262scaffold_20	unplaced-scaffold	na	na	JAUDYM010000020.1	<>	na	Primary Assembly	794123	na
+IW262scaffold_21	unplaced-scaffold	na	na	JAUDYM010000021.1	<>	na	Primary Assembly	645933	na
+IW262scaffold_22	unplaced-scaffold	na	na	JAUDYM010000022.1	<>	na	Primary Assembly	621046	na
+IW262scaffold_23	unplaced-scaffold	na	na	JAUDYM010000023.1	<>	na	Primary Assembly	571842	na
+IW262scaffold_24	unplaced-scaffold	na	na	JAUDYM010000024.1	<>	na	Primary Assembly	540900	na
+IW262scaffold_25	unplaced-scaffold	na	na	JAUDYM010000025.1	<>	na	Primary Assembly	484688	na
+IW262scaffold_26	unplaced-scaffold	na	na	JAUDYM010000026.1	<>	na	Primary Assembly	458887	na
+IW262scaffold_27	unplaced-scaffold	na	na	JAUDYM010000027.1	<>	na	Primary Assembly	315539	na
+IW262scaffold_28	unplaced-scaffold	na	na	JAUDYM010000028.1	<>	na	Primary Assembly	280013	na
+IW262scaffold_29	unplaced-scaffold	na	na	JAUDYM010000029.1	<>	na	Primary Assembly	273211	na
+IW262scaffold_3	unplaced-scaffold	na	na	JAUDYM010000003.1	<>	na	Primary Assembly	4785915	na
+IW262scaffold_30	unplaced-scaffold	na	na	JAUDYM010000030.1	<>	na	Primary Assembly	252489	na
+IW262scaffold_31	unplaced-scaffold	na	na	JAUDYM010000031.1	<>	na	Primary Assembly	222785	na
+IW262scaffold_32	unplaced-scaffold	na	na	JAUDYM010000032.1	<>	na	Primary Assembly	168169	na
+IW262scaffold_33	unplaced-scaffold	na	na	JAUDYM010000033.1	<>	na	Primary Assembly	115346	na
+IW262scaffold_34	unplaced-scaffold	na	na	JAUDYM010000034.1	<>	na	Primary Assembly	84095	na
+IW262scaffold_35	unplaced-scaffold	na	na	JAUDYM010000035.1	<>	na	Primary Assembly	51024	na
+IW262scaffold_36	unplaced-scaffold	na	na	JAUDYM010000036.1	<>	na	Primary Assembly	33633	na
+IW262scaffold_37	unplaced-scaffold	na	na	JAUDYM010000037.1	<>	na	Primary Assembly	30313	na
+IW262scaffold_38	unplaced-scaffold	na	na	JAUDYM010000038.1	<>	na	Primary Assembly	29931	na
+IW262scaffold_39	unplaced-scaffold	na	na	JAUDYM010000039.1	<>	na	Primary Assembly	29037	na
+IW262scaffold_4	unplaced-scaffold	na	na	JAUDYM010000004.1	<>	na	Primary Assembly	4410560	na
+IW262scaffold_40	unplaced-scaffold	na	na	JAUDYM010000040.1	<>	na	Primary Assembly	27778	na
+IW262scaffold_41	unplaced-scaffold	na	na	JAUDYM010000041.1	<>	na	Primary Assembly	27692	na
+IW262scaffold_42	unplaced-scaffold	na	na	JAUDYM010000042.1	<>	na	Primary Assembly	27032	na
+IW262scaffold_43	unplaced-scaffold	na	na	JAUDYM010000043.1	<>	na	Primary Assembly	25704	na
+IW262scaffold_44	unplaced-scaffold	na	na	JAUDYM010000044.1	<>	na	Primary Assembly	23736	na
+IW262scaffold_45	unplaced-scaffold	na	na	JAUDYM010000045.1	<>	na	Primary Assembly	23715	na
+IW262scaffold_46	unplaced-scaffold	na	na	JAUDYM010000046.1	<>	na	Primary Assembly	23603	na
+IW262scaffold_47	unplaced-scaffold	na	na	JAUDYM010000047.1	<>	na	Primary Assembly	23177	na
+IW262scaffold_48	unplaced-scaffold	na	na	JAUDYM010000048.1	<>	na	Primary Assembly	22254	na
+IW262scaffold_49	unplaced-scaffold	na	na	JAUDYM010000049.1	<>	na	Primary Assembly	21431	na
+IW262scaffold_5	unplaced-scaffold	na	na	JAUDYM010000005.1	<>	na	Primary Assembly	4159390	na
+IW262scaffold_50	unplaced-scaffold	na	na	JAUDYM010000050.1	<>	na	Primary Assembly	17619	na
+IW262scaffold_51	unplaced-scaffold	na	na	JAUDYM010000051.1	<>	na	Primary Assembly	16116	na
+IW262scaffold_52	unplaced-scaffold	na	na	JAUDYM010000052.1	<>	na	Primary Assembly	12753	na
+IW262scaffold_53	unplaced-scaffold	na	na	JAUDYM010000053.1	<>	na	Primary Assembly	12711	na
+IW262scaffold_54	unplaced-scaffold	na	na	JAUDYM010000054.1	<>	na	Primary Assembly	8753	na
+IW262scaffold_6	unplaced-scaffold	na	na	JAUDYM010000006.1	<>	na	Primary Assembly	3959705	na
+IW262scaffold_7	unplaced-scaffold	na	na	JAUDYM010000007.1	<>	na	Primary Assembly	3850518	na
+IW262scaffold_8	unplaced-scaffold	na	na	JAUDYM010000008.1	<>	na	Primary Assembly	2547285	na
+IW262scaffold_9	unplaced-scaffold	na	na	JAUDYM010000009.1	<>	na	Primary Assembly	2066225	na

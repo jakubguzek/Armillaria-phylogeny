@@ -1,0 +1,15 @@
+b6c3f96fbf89f94890cc41141479400a  ./annotation_hashes.txt
+ce14d8a5d018f16a0d8d8bf4d81f1465  ./GCA_030407015.1_Armfum1_assembly_report.txt
+b83af31d8a9ba9f9977c42e09a65ebe5  ./GCA_030407015.1_Armfum1_assembly_stats.txt
+126c70847e577844e59993f685f1fbd0  ./GCA_030407015.1_Armfum1_cds_from_genomic.fna.gz
+c25c8e1a7fb76fd69f8719888fbcc187  ./GCA_030407015.1_Armfum1_feature_count.txt.gz
+982c658f23fe7d7a4477ea9916c5ce4a  ./GCA_030407015.1_Armfum1_feature_table.txt.gz
+16e965144b18e4f7d25603343b1a1bbe  ./GCA_030407015.1_Armfum1_genomic.fna.gz
+50642aab951dbd87c67b412b22af52f1  ./GCA_030407015.1_Armfum1_genomic.gbff.gz
+93c912999fbc7ee1353a7c0512789f38  ./GCA_030407015.1_Armfum1_genomic.gff.gz
+6bb79e18455ee1eba466f5543dbd6799  ./GCA_030407015.1_Armfum1_genomic.gtf.gz
+285f77de2e4a298a2ad61c99699c1cd9  ./GCA_030407015.1_Armfum1_protein.faa.gz
+dea5352f8c53b40cb733f578dac6dd3a  ./GCA_030407015.1_Armfum1_protein.gpff.gz
+0af36b79159a884d7d6f018d4745dade  ./GCA_030407015.1_Armfum1_rna_from_genomic.fna.gz
+60bac5f6f0e1e75b2b3d94e86a74f096  ./GCA_030407015.1_Armfum1_translated_cds.faa.gz
+80cee12f4b9f6d5979a13ffd95d2c2fc  ./GCA_030407015.1_Armfum1_wgsmaster.gbff.gz

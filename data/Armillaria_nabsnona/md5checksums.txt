@@ -1,0 +1,15 @@
+15f161eaf0d1d17809ed93e7eb9ccebe  ./annotation_hashes.txt
+9871947f81bcc4f1a5af1a65c5670bc6  ./GCA_030407065.1_Armnab1_assembly_report.txt
+1ce227ec491ad35958d88b80a2c001a0  ./GCA_030407065.1_Armnab1_assembly_stats.txt
+50136e80e3899a9f472bc3179c956d67  ./GCA_030407065.1_Armnab1_cds_from_genomic.fna.gz
+3c9e89f74c293e1bb3643c4925def16f  ./GCA_030407065.1_Armnab1_feature_count.txt.gz
+bd4d6a9f025b0c3c28b5d5ed60b2893b  ./GCA_030407065.1_Armnab1_feature_table.txt.gz
+29e85fa059557739477703a366c2f531  ./GCA_030407065.1_Armnab1_genomic.fna.gz
+b7ccb203c6e40dee381e5c00ec40a399  ./GCA_030407065.1_Armnab1_genomic.gbff.gz
+a1650b4d7b63ee290da901709fdbe4be  ./GCA_030407065.1_Armnab1_genomic.gff.gz
+a4bf84a581a6295ed1ba340cc378cfbc  ./GCA_030407065.1_Armnab1_genomic.gtf.gz
+8493b6a6f4a6dae45449dbafb8e4190b  ./GCA_030407065.1_Armnab1_protein.faa.gz
+fd56cb03aebbe83b5515dd5ed29e3d66  ./GCA_030407065.1_Armnab1_protein.gpff.gz
+1f4d51d4582ff683ec06ef64091882b0  ./GCA_030407065.1_Armnab1_rna_from_genomic.fna.gz
+ef4b97006c188877261a39122a228665  ./GCA_030407065.1_Armnab1_translated_cds.faa.gz
+3740c6c36be82287b937f97be10c3d00  ./GCA_030407065.1_Armnab1_wgsmaster.gbff.gz

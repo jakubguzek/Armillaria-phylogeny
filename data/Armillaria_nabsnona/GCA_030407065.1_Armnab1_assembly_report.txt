@@ -1,0 +1,115 @@
+# Assembly name:  Armnab1
+# Organism name:  Armillaria nabsnona (basidiomycete fungi)
+# Infraspecific name:  strain=CMW6904
+# Taxid:          64368
+# BioSample:      SAMN10362911
+# BioProject:     PRJNA500837
+# Submitter:      DOE Joint Genome Institute
+# Date:           2023-07-05
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    JAUDQA01
+# Assembly method: Falcon v. 1.8.8
+# Expected final version: no
+# Genome coverage: 386.53x
+# Sequencing technology: PacBio
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_030407065.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_030407075.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+EDD85scaffold_1	unplaced-scaffold	na	na	JAUDQA010000001.1	<>	na	Primary Assembly	4523863	na
+EDD85scaffold_10	unplaced-scaffold	na	na	JAUDQA010000010.1	<>	na	Primary Assembly	2451222	na
+EDD85scaffold_11	unplaced-scaffold	na	na	JAUDQA010000011.1	<>	na	Primary Assembly	1857177	na
+EDD85scaffold_12	unplaced-scaffold	na	na	JAUDQA010000012.1	<>	na	Primary Assembly	1807391	na
+EDD85scaffold_13	unplaced-scaffold	na	na	JAUDQA010000013.1	<>	na	Primary Assembly	1434380	na
+EDD85scaffold_14	unplaced-scaffold	na	na	JAUDQA010000014.1	<>	na	Primary Assembly	1266952	na
+EDD85scaffold_15	unplaced-scaffold	na	na	JAUDQA010000015.1	<>	na	Primary Assembly	1253279	na
+EDD85scaffold_16	unplaced-scaffold	na	na	JAUDQA010000016.1	<>	na	Primary Assembly	1250954	na
+EDD85scaffold_17	unplaced-scaffold	na	na	JAUDQA010000017.1	<>	na	Primary Assembly	1182169	na
+EDD85scaffold_18	unplaced-scaffold	na	na	JAUDQA010000018.1	<>	na	Primary Assembly	1076137	na
+EDD85scaffold_19	unplaced-scaffold	na	na	JAUDQA010000019.1	<>	na	Primary Assembly	994713	na
+EDD85scaffold_2	unplaced-scaffold	na	na	JAUDQA010000002.1	<>	na	Primary Assembly	4339949	na
+EDD85scaffold_20	unplaced-scaffold	na	na	JAUDQA010000020.1	<>	na	Primary Assembly	957456	na
+EDD85scaffold_21	unplaced-scaffold	na	na	JAUDQA010000021.1	<>	na	Primary Assembly	897131	na
+EDD85scaffold_22	unplaced-scaffold	na	na	JAUDQA010000022.1	<>	na	Primary Assembly	825522	na
+EDD85scaffold_23	unplaced-scaffold	na	na	JAUDQA010000023.1	<>	na	Primary Assembly	687559	na
+EDD85scaffold_24	unplaced-scaffold	na	na	JAUDQA010000024.1	<>	na	Primary Assembly	679009	na
+EDD85scaffold_25	unplaced-scaffold	na	na	JAUDQA010000025.1	<>	na	Primary Assembly	631973	na
+EDD85scaffold_26	unplaced-scaffold	na	na	JAUDQA010000026.1	<>	na	Primary Assembly	608034	na
+EDD85scaffold_27	unplaced-scaffold	na	na	JAUDQA010000027.1	<>	na	Primary Assembly	594540	na
+EDD85scaffold_28	unplaced-scaffold	na	na	JAUDQA010000028.1	<>	na	Primary Assembly	578926	na
+EDD85scaffold_29	unplaced-scaffold	na	na	JAUDQA010000029.1	<>	na	Primary Assembly	570828	na
+EDD85scaffold_3	unplaced-scaffold	na	na	JAUDQA010000003.1	<>	na	Primary Assembly	4187090	na
+EDD85scaffold_30	unplaced-scaffold	na	na	JAUDQA010000030.1	<>	na	Primary Assembly	534645	na
+EDD85scaffold_31	unplaced-scaffold	na	na	JAUDQA010000031.1	<>	na	Primary Assembly	516779	na
+EDD85scaffold_32	unplaced-scaffold	na	na	JAUDQA010000032.1	<>	na	Primary Assembly	492883	na
+EDD85scaffold_33	unplaced-scaffold	na	na	JAUDQA010000033.1	<>	na	Primary Assembly	476493	na
+EDD85scaffold_34	unplaced-scaffold	na	na	JAUDQA010000034.1	<>	na	Primary Assembly	476300	na
+EDD85scaffold_35	unplaced-scaffold	na	na	JAUDQA010000035.1	<>	na	Primary Assembly	473899	na
+EDD85scaffold_36	unplaced-scaffold	na	na	JAUDQA010000036.1	<>	na	Primary Assembly	457315	na
+EDD85scaffold_37	unplaced-scaffold	na	na	JAUDQA010000037.1	<>	na	Primary Assembly	444971	na
+EDD85scaffold_38	unplaced-scaffold	na	na	JAUDQA010000038.1	<>	na	Primary Assembly	424383	na
+EDD85scaffold_39	unplaced-scaffold	na	na	JAUDQA010000039.1	<>	na	Primary Assembly	383129	na
+EDD85scaffold_4	unplaced-scaffold	na	na	JAUDQA010000004.1	<>	na	Primary Assembly	3975171	na
+EDD85scaffold_40	unplaced-scaffold	na	na	JAUDQA010000040.1	<>	na	Primary Assembly	368141	na
+EDD85scaffold_41	unplaced-scaffold	na	na	JAUDQA010000041.1	<>	na	Primary Assembly	347525	na
+EDD85scaffold_42	unplaced-scaffold	na	na	JAUDQA010000042.1	<>	na	Primary Assembly	337904	na
+EDD85scaffold_43	unplaced-scaffold	na	na	JAUDQA010000043.1	<>	na	Primary Assembly	285705	na
+EDD85scaffold_44	unplaced-scaffold	na	na	JAUDQA010000044.1	<>	na	Primary Assembly	278523	na
+EDD85scaffold_45	unplaced-scaffold	na	na	JAUDQA010000045.1	<>	na	Primary Assembly	226648	na
+EDD85scaffold_46	unplaced-scaffold	na	na	JAUDQA010000046.1	<>	na	Primary Assembly	222623	na
+EDD85scaffold_47	unplaced-scaffold	na	na	JAUDQA010000047.1	<>	na	Primary Assembly	221056	na
+EDD85scaffold_48	unplaced-scaffold	na	na	JAUDQA010000048.1	<>	na	Primary Assembly	170639	na
+EDD85scaffold_49	unplaced-scaffold	na	na	JAUDQA010000049.1	<>	na	Primary Assembly	134908	na
+EDD85scaffold_5	unplaced-scaffold	na	na	JAUDQA010000005.1	<>	na	Primary Assembly	3688025	na
+EDD85scaffold_50	unplaced-scaffold	na	na	JAUDQA010000050.1	<>	na	Primary Assembly	133026	na
+EDD85scaffold_51	unplaced-scaffold	na	na	JAUDQA010000051.1	<>	na	Primary Assembly	109527	na
+EDD85scaffold_52	unplaced-scaffold	na	na	JAUDQA010000052.1	<>	na	Primary Assembly	108195	na
+EDD85scaffold_53	unplaced-scaffold	na	na	JAUDQA010000053.1	<>	na	Primary Assembly	106992	na
+EDD85scaffold_54	unplaced-scaffold	na	na	JAUDQA010000054.1	<>	na	Primary Assembly	96086	na
+EDD85scaffold_55	unplaced-scaffold	na	na	JAUDQA010000055.1	<>	na	Primary Assembly	91916	na
+EDD85scaffold_56	unplaced-scaffold	na	na	JAUDQA010000056.1	<>	na	Primary Assembly	88796	na
+EDD85scaffold_57	unplaced-scaffold	na	na	JAUDQA010000057.1	<>	na	Primary Assembly	76027	na
+EDD85scaffold_58	unplaced-scaffold	na	na	JAUDQA010000058.1	<>	na	Primary Assembly	62418	na
+EDD85scaffold_59	unplaced-scaffold	na	na	JAUDQA010000059.1	<>	na	Primary Assembly	62261	na
+EDD85scaffold_6	unplaced-scaffold	na	na	JAUDQA010000006.1	<>	na	Primary Assembly	3144407	na
+EDD85scaffold_60	unplaced-scaffold	na	na	JAUDQA010000060.1	<>	na	Primary Assembly	62228	na
+EDD85scaffold_61	unplaced-scaffold	na	na	JAUDQA010000061.1	<>	na	Primary Assembly	35315	na
+EDD85scaffold_62	unplaced-scaffold	na	na	JAUDQA010000062.1	<>	na	Primary Assembly	32382	na
+EDD85scaffold_63	unplaced-scaffold	na	na	JAUDQA010000063.1	<>	na	Primary Assembly	26368	na
+EDD85scaffold_64	unplaced-scaffold	na	na	JAUDQA010000064.1	<>	na	Primary Assembly	22756	na
+EDD85scaffold_65	unplaced-scaffold	na	na	JAUDQA010000065.1	<>	na	Primary Assembly	22065	na
+EDD85scaffold_66	unplaced-scaffold	na	na	JAUDQA010000066.1	<>	na	Primary Assembly	19987	na
+EDD85scaffold_67	unplaced-scaffold	na	na	JAUDQA010000067.1	<>	na	Primary Assembly	18506	na
+EDD85scaffold_68	unplaced-scaffold	na	na	JAUDQA010000068.1	<>	na	Primary Assembly	16889	na
+EDD85scaffold_69	unplaced-scaffold	na	na	JAUDQA010000069.1	<>	na	Primary Assembly	15918	na
+EDD85scaffold_7	unplaced-scaffold	na	na	JAUDQA010000007.1	<>	na	Primary Assembly	3098029	na
+EDD85scaffold_70	unplaced-scaffold	na	na	JAUDQA010000070.1	<>	na	Primary Assembly	14966	na
+EDD85scaffold_71	unplaced-scaffold	na	na	JAUDQA010000071.1	<>	na	Primary Assembly	14806	na
+EDD85scaffold_72	unplaced-scaffold	na	na	JAUDQA010000072.1	<>	na	Primary Assembly	14704	na
+EDD85scaffold_73	unplaced-scaffold	na	na	JAUDQA010000073.1	<>	na	Primary Assembly	13552	na
+EDD85scaffold_74	unplaced-scaffold	na	na	JAUDQA010000074.1	<>	na	Primary Assembly	13419	na
+EDD85scaffold_75	unplaced-scaffold	na	na	JAUDQA010000075.1	<>	na	Primary Assembly	13198	na
+EDD85scaffold_76	unplaced-scaffold	na	na	JAUDQA010000076.1	<>	na	Primary Assembly	13175	na
+EDD85scaffold_77	unplaced-scaffold	na	na	JAUDQA010000077.1	<>	na	Primary Assembly	12247	na
+EDD85scaffold_78	unplaced-scaffold	na	na	JAUDQA010000078.1	<>	na	Primary Assembly	11389	na
+EDD85scaffold_79	unplaced-scaffold	na	na	JAUDQA010000079.1	<>	na	Primary Assembly	11229	na
+EDD85scaffold_8	unplaced-scaffold	na	na	JAUDQA010000008.1	<>	na	Primary Assembly	2816352	na
+EDD85scaffold_80	unplaced-scaffold	na	na	JAUDQA010000080.1	<>	na	Primary Assembly	10886	na
+EDD85scaffold_81	unplaced-scaffold	na	na	JAUDQA010000081.1	<>	na	Primary Assembly	8979	na
+EDD85scaffold_82	unplaced-scaffold	na	na	JAUDQA010000082.1	<>	na	Primary Assembly	5514	na
+EDD85scaffold_83	unplaced-scaffold	na	na	JAUDQA010000083.1	<>	na	Primary Assembly	5007	na
+EDD85scaffold_84	unplaced-scaffold	na	na	JAUDQA010000084.1	<>	na	Primary Assembly	3466	na
+EDD85scaffold_85	unplaced-scaffold	na	na	JAUDQA010000085.1	<>	na	Primary Assembly	2442	na
+EDD85scaffold_9	unplaced-scaffold	na	na	JAUDQA010000009.1	<>	na	Primary Assembly	2689454	na

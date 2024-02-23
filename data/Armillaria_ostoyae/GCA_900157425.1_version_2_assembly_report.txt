@@ -1,0 +1,132 @@
+# Assembly name:  version 2
+# Organism name:  Armillaria ostoyae (basidiomycete fungi)
+# Infraspecific name:  strain=C18/9
+# Taxid:          47428
+# BioSample:      SAMEA54519418
+# BioProject:     PRJEB19205
+# Submitter:      Technische Universitat Munchen - WZW
+# Date:           2017-09-28
+# Assembly type:  haploid
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    FUEG01
+# Genome coverage: 60x
+# GenBank assembly accession: GCA_900157425.1
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_900157424.1		Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+FUEG01000105.1	unplaced-scaffold	na	na	FUEG01000105.1	<>	na	Primary Assembly	5284	na
+FUEG01000100.1	unplaced-scaffold	na	na	FUEG01000100.1	<>	na	Primary Assembly	10995	na
+FUEG01000099.1	unplaced-scaffold	na	na	FUEG01000099.1	<>	na	Primary Assembly	11586	na
+FUEG01000098.1	unplaced-scaffold	na	na	FUEG01000098.1	<>	na	Primary Assembly	11728	na
+FUEG01000097.1	unplaced-scaffold	na	na	FUEG01000097.1	<>	na	Primary Assembly	12390	na
+FUEG01000041.1	unplaced-scaffold	na	na	FUEG01000041.1	<>	na	Primary Assembly	294811	na
+FUEG01000015.1	unplaced-scaffold	na	na	FUEG01000015.1	<>	na	Primary Assembly	973045	na
+FUEG01000089.1	unplaced-scaffold	na	na	FUEG01000089.1	<>	na	Primary Assembly	16585	na
+FUEG01000042.1	unplaced-scaffold	na	na	FUEG01000042.1	<>	na	Primary Assembly	293205	na
+FUEG01000106.1	unplaced-scaffold	na	na	FUEG01000106.1	<>	na	Primary Assembly	4960	na
+FUEG01000052.1	unplaced-scaffold	na	na	FUEG01000052.1	<>	na	Primary Assembly	207959	na
+FUEG01000037.1	unplaced-scaffold	na	na	FUEG01000037.1	<>	na	Primary Assembly	338344	na
+FUEG01000034.1	unplaced-scaffold	na	na	FUEG01000034.1	<>	na	Primary Assembly	420633	na
+FUEG01000033.1	unplaced-scaffold	na	na	FUEG01000033.1	<>	na	Primary Assembly	430646	na
+FUEG01000024.1	unplaced-scaffold	na	na	FUEG01000024.1	<>	na	Primary Assembly	618723	na
+FUEG01000044.1	unplaced-scaffold	na	na	FUEG01000044.1	<>	na	Primary Assembly	249597	na
+FUEG01000040.1	unplaced-scaffold	na	na	FUEG01000040.1	<>	na	Primary Assembly	322976	na
+FUEG01000079.1	unplaced-scaffold	na	na	FUEG01000079.1	<>	na	Primary Assembly	39794	na
+FUEG01000030.1	unplaced-scaffold	na	na	FUEG01000030.1	<>	na	Primary Assembly	474379	na
+FUEG01000018.1	unplaced-scaffold	na	na	FUEG01000018.1	<>	na	Primary Assembly	919912	na
+FUEG01000017.1	unplaced-scaffold	na	na	FUEG01000017.1	<>	na	Primary Assembly	929979	na
+FUEG01000029.1	unplaced-scaffold	na	na	FUEG01000029.1	<>	na	Primary Assembly	482450	na
+FUEG01000028.1	unplaced-scaffold	na	na	FUEG01000028.1	<>	na	Primary Assembly	498778	na
+FUEG01000032.1	unplaced-scaffold	na	na	FUEG01000032.1	<>	na	Primary Assembly	454289	na
+FUEG01000026.1	unplaced-scaffold	na	na	FUEG01000026.1	<>	na	Primary Assembly	557740	na
+FUEG01000095.1	unplaced-scaffold	na	na	FUEG01000095.1	<>	na	Primary Assembly	12793	na
+FUEG01000023.1	unplaced-scaffold	na	na	FUEG01000023.1	<>	na	Primary Assembly	625327	na
+FUEG01000102.1	unplaced-scaffold	na	na	FUEG01000102.1	<>	na	Primary Assembly	8723	na
+FUEG01000009.1	unplaced-scaffold	na	na	FUEG01000009.1	<>	na	Primary Assembly	2283935	na
+FUEG01000086.1	unplaced-scaffold	na	na	FUEG01000086.1	<>	na	Primary Assembly	19410	na
+FUEG01000045.1	unplaced-scaffold	na	na	FUEG01000045.1	<>	na	Primary Assembly	247006	na
+FUEG01000005.1	unplaced-scaffold	na	na	FUEG01000005.1	<>	na	Primary Assembly	2692635	na
+FUEG01000101.1	unplaced-scaffold	na	na	FUEG01000101.1	<>	na	Primary Assembly	9921	na
+FUEG01000077.1	unplaced-scaffold	na	na	FUEG01000077.1	<>	na	Primary Assembly	43743	na
+FUEG01000038.1	unplaced-scaffold	na	na	FUEG01000038.1	<>	na	Primary Assembly	332891	na
+FUEG01000043.1	unplaced-scaffold	na	na	FUEG01000043.1	<>	na	Primary Assembly	257664	na
+FUEG01000036.1	unplaced-scaffold	na	na	FUEG01000036.1	<>	na	Primary Assembly	349301	na
+FUEG01000059.1	unplaced-scaffold	na	na	FUEG01000059.1	<>	na	Primary Assembly	140589	na
+FUEG01000008.1	unplaced-scaffold	na	na	FUEG01000008.1	<>	na	Primary Assembly	2370686	na
+FUEG01000087.1	unplaced-scaffold	na	na	FUEG01000087.1	<>	na	Primary Assembly	18457	na
+FUEG01000007.1	unplaced-scaffold	na	na	FUEG01000007.1	<>	na	Primary Assembly	2407181	na
+FUEG01000081.1	unplaced-scaffold	na	na	FUEG01000081.1	<>	na	Primary Assembly	31112	na
+FUEG01000035.1	unplaced-scaffold	na	na	FUEG01000035.1	<>	na	Primary Assembly	406702	na
+FUEG01000051.1	unplaced-scaffold	na	na	FUEG01000051.1	<>	na	Primary Assembly	216109	na
+FUEG01000078.1	unplaced-scaffold	na	na	FUEG01000078.1	<>	na	Primary Assembly	42100	na
+FUEG01000088.1	unplaced-scaffold	na	na	FUEG01000088.1	<>	na	Primary Assembly	18252	na
+FUEG01000104.1	unplaced-scaffold	na	na	FUEG01000104.1	<>	na	Primary Assembly	5790	na
+FUEG01000006.1	unplaced-scaffold	na	na	FUEG01000006.1	<>	na	Primary Assembly	2495003	na
+FUEG01000014.1	unplaced-scaffold	na	na	FUEG01000014.1	<>	na	Primary Assembly	1048399	na
+FUEG01000065.1	unplaced-scaffold	na	na	FUEG01000065.1	<>	na	Primary Assembly	108735	na
+FUEG01000060.1	unplaced-scaffold	na	na	FUEG01000060.1	<>	na	Primary Assembly	140504	na
+FUEG01000002.1	unplaced-scaffold	na	na	FUEG01000002.1	<>	na	Primary Assembly	4607822	na
+FUEG01000004.1	unplaced-scaffold	na	na	FUEG01000004.1	<>	na	Primary Assembly	3820363	na
+FUEG01000011.1	unplaced-scaffold	na	na	FUEG01000011.1	<>	na	Primary Assembly	1610817	na
+FUEG01000027.1	unplaced-scaffold	na	na	FUEG01000027.1	<>	na	Primary Assembly	526748	na
+FUEG01000061.1	unplaced-scaffold	na	na	FUEG01000061.1	<>	na	Primary Assembly	130900	na
+FUEG01000016.1	unplaced-scaffold	na	na	FUEG01000016.1	<>	na	Primary Assembly	948998	na
+FUEG01000094.1	unplaced-scaffold	na	na	FUEG01000094.1	<>	na	Primary Assembly	13792	na
+FUEG01000003.1	unplaced-scaffold	na	na	FUEG01000003.1	<>	na	Primary Assembly	4561068	na
+FUEG01000046.1	unplaced-scaffold	na	na	FUEG01000046.1	<>	na	Primary Assembly	246738	na
+FUEG01000020.1	unplaced-scaffold	na	na	FUEG01000020.1	<>	na	Primary Assembly	870430	na
+FUEG01000021.1	unplaced-scaffold	na	na	FUEG01000021.1	<>	na	Primary Assembly	744188	na
+FUEG01000091.1	unplaced-scaffold	na	na	FUEG01000091.1	<>	na	Primary Assembly	14956	na
+FUEG01000012.1	unplaced-scaffold	na	na	FUEG01000012.1	<>	na	Primary Assembly	1371733	na
+FUEG01000090.1	unplaced-scaffold	na	na	FUEG01000090.1	<>	na	Primary Assembly	15925	na
+FUEG01000047.1	unplaced-scaffold	na	na	FUEG01000047.1	<>	na	Primary Assembly	244903	na
+FUEG01000071.1	unplaced-scaffold	na	na	FUEG01000071.1	<>	na	Primary Assembly	62418	na
+FUEG01000039.1	unplaced-scaffold	na	na	FUEG01000039.1	<>	na	Primary Assembly	325315	na
+FUEG01000048.1	unplaced-scaffold	na	na	FUEG01000048.1	<>	na	Primary Assembly	243830	na
+FUEG01000049.1	unplaced-scaffold	na	na	FUEG01000049.1	<>	na	Primary Assembly	228635	na
+FUEG01000068.1	unplaced-scaffold	na	na	FUEG01000068.1	<>	na	Primary Assembly	95282	na
+FUEG01000050.1	unplaced-scaffold	na	na	FUEG01000050.1	<>	na	Primary Assembly	216861	na
+FUEG01000075.1	unplaced-scaffold	na	na	FUEG01000075.1	<>	na	Primary Assembly	46866	na
+FUEG01000022.1	unplaced-scaffold	na	na	FUEG01000022.1	<>	na	Primary Assembly	700062	na
+FUEG01000053.1	unplaced-scaffold	na	na	FUEG01000053.1	<>	na	Primary Assembly	204615	na
+FUEG01000057.1	unplaced-scaffold	na	na	FUEG01000057.1	<>	na	Primary Assembly	144571	na
+FUEG01000013.1	unplaced-scaffold	na	na	FUEG01000013.1	<>	na	Primary Assembly	1355855	na
+FUEG01000019.1	unplaced-scaffold	na	na	FUEG01000019.1	<>	na	Primary Assembly	871782	na
+FUEG01000054.1	unplaced-scaffold	na	na	FUEG01000054.1	<>	na	Primary Assembly	200322	na
+FUEG01000055.1	unplaced-scaffold	na	na	FUEG01000055.1	<>	na	Primary Assembly	178135	na
+FUEG01000056.1	unplaced-scaffold	na	na	FUEG01000056.1	<>	na	Primary Assembly	154941	na
+FUEG01000083.1	unplaced-scaffold	na	na	FUEG01000083.1	<>	na	Primary Assembly	26188	na
+FUEG01000058.1	unplaced-scaffold	na	na	FUEG01000058.1	<>	na	Primary Assembly	142738	na
+FUEG01000069.1	unplaced-scaffold	na	na	FUEG01000069.1	<>	na	Primary Assembly	89545	na
+FUEG01000062.1	unplaced-scaffold	na	na	FUEG01000062.1	<>	na	Primary Assembly	121286	na
+FUEG01000063.1	unplaced-scaffold	na	na	FUEG01000063.1	<>	na	Primary Assembly	117913	na
+FUEG01000084.1	unplaced-scaffold	na	na	FUEG01000084.1	<>	na	Primary Assembly	25186	na
+FUEG01000064.1	unplaced-scaffold	na	na	FUEG01000064.1	<>	na	Primary Assembly	112225	na
+FUEG01000025.1	unplaced-scaffold	na	na	FUEG01000025.1	<>	na	Primary Assembly	563057	na
+FUEG01000085.1	unplaced-scaffold	na	na	FUEG01000085.1	<>	na	Primary Assembly	22425	na
+FUEG01000066.1	unplaced-scaffold	na	na	FUEG01000066.1	<>	na	Primary Assembly	104137	na
+FUEG01000001.1	unplaced-scaffold	na	na	FUEG01000001.1	<>	na	Primary Assembly	6405655	na
+FUEG01000010.1	unplaced-scaffold	na	na	FUEG01000010.1	<>	na	Primary Assembly	1742903	na
+FUEG01000067.1	unplaced-scaffold	na	na	FUEG01000067.1	<>	na	Primary Assembly	101994	na
+FUEG01000070.1	unplaced-scaffold	na	na	FUEG01000070.1	<>	na	Primary Assembly	71295	na
+FUEG01000072.1	unplaced-scaffold	na	na	FUEG01000072.1	<>	na	Primary Assembly	58830	na
+FUEG01000082.1	unplaced-scaffold	na	na	FUEG01000082.1	<>	na	Primary Assembly	28390	na
+FUEG01000073.1	unplaced-scaffold	na	na	FUEG01000073.1	<>	na	Primary Assembly	52435	na
+FUEG01000074.1	unplaced-scaffold	na	na	FUEG01000074.1	<>	na	Primary Assembly	50493	na
+FUEG01000076.1	unplaced-scaffold	na	na	FUEG01000076.1	<>	na	Primary Assembly	46811	na
+FUEG01000103.1	unplaced-scaffold	na	na	FUEG01000103.1	<>	na	Primary Assembly	7281	na
+FUEG01000080.1	unplaced-scaffold	na	na	FUEG01000080.1	<>	na	Primary Assembly	34426	na
+FUEG01000092.1	unplaced-scaffold	na	na	FUEG01000092.1	<>	na	Primary Assembly	14792	na
+FUEG01000093.1	unplaced-scaffold	na	na	FUEG01000093.1	<>	na	Primary Assembly	14641	na
+FUEG01000031.1	unplaced-scaffold	na	na	FUEG01000031.1	<>	na	Primary Assembly	466742	na
+FUEG01000096.1	unplaced-scaffold	na	na	FUEG01000096.1	<>	na	Primary Assembly	12786	na
